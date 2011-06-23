@@ -1,0 +1,156 @@
+body {
+	background:#fff;
+	color:#000;
+	font-family:"PT Sans", "PT Sans Narrow", "Lucida Grande";
+}
+
+header {
+	background:#354344;
+	background:#C4CC50;
+	border-bottom:2px solid #81A5A7;
+	border-bottom:2px solid #9FA759;
+	
+	height:40px;
+	margin-bottom:20px;
+	position:relative;
+}
+
+header div.title {
+	color:#FFF;
+/*	padding:1em;*/
+	height:40px;
+	width:140px;
+}
+
+header h1 {
+	font-family:"PT Sans Narrow";
+	font-size:1.75em;
+	font-weight:normal;
+/*	letter-spacing:-1px;*/
+/*	font-style:italic;*/
+	position:absolute;
+	margin-bottom:4px;
+	bottom:0;
+	text-shadow:1px 1px 0 #111, 2px 2px 0 #222;
+	text-transform:uppercase;
+}
+
+header nav {
+/*	font-size:0.95em;*/
+	position:absolute;
+	bottom:0;
+	list-style-type:none;
+}
+
+header nav li {
+	display:inline;
+	margin-right:0.5em;
+}
+
+header nav li a {
+	background:#797E31;
+	background:;
+	border-radius:0;
+	color:#fff;
+	display:block;
+	float:left;
+	margin-right:0.25em;
+	padding:0.5em 0.75em 0.5em 0.75em;
+	text-decoration:none;
+}
+header nav li a:visited {
+	color:#fff;
+}
+header nav li a:focus,
+header nav li a:hover {
+	border-radius:0;
+	color:#fff;
+}
+
+header nav li.current a {
+	background:#81A5A7;
+}
+
+section#intro {
+	color:#444;
+	font-family:"PT Serif";
+	font-size:1.8em;
+	line-height:1;
+	margin-bottom:1em;
+}
+
+section#blog {
+}
+
+section#blog > div {
+	background:#fefefe;
+	-webkit-box-shadow:0 0 3px #999;
+	padding:1em;
+}
+
+
+aside {
+}
+
+aside h2 {
+	background:#DAD7D4;
+	border-bottom:1px dotted #aaa;
+	display:block;
+	color:#555;
+	margin-bottom:0.75em;
+	padding:0.5em 0.75em;
+	text-transform:uppercase;
+}
+
+aside ul {
+	line-height:1.6;
+}
+
+/* PROJECTS */
+
+article h1 {
+	border-bottom:4px double #aaa;
+	font-weight:normal;
+	font-size:2.5em;
+	margin:1em 0 0.25em 0;
+	text-transform:uppercase;
+}
+p {
+	font-family:"PT Serif";
+	line-height:1.4;
+}
+
+section#portfolio article {
+	margin-bottom:2em;
+}
+
+section#portfolio article h2 {
+	background:#DAD7D4;
+	display:block;
+	color:#555;
+	margin-bottom:0.75em;
+	padding:0.5em 0.75em;
+	text-transform:uppercase;
+}
+
+section#portfolio article img {
+	background:#eee;
+	border:1px solid #fff;
+	-webkit-box-shadow:0 0 1px #222;
+	padding:4px;
+}
+
+
+
+footer {
+	border-top:1px dotted #ccc;
+	height:80px;
+	margin-top:2em;
+	padding-top:0.5em;
+}
+
+footer span {
+	font-size:0.7em;
+}
+
+

@@ -1,0 +1,175 @@
+body {
+	background:#fff;
+	color:#222;
+	font-family:"PT Sans", "PT Sans Narrow", "Lucida Grande";
+	line-height:1.4;
+}
+
+/*--------------------------------------------------------------
+* HEADER
+*-------------------------------------------------------------*/
+
+header {
+	background:#9C3;
+	border-bottom:2px solid #690;
+	margin-bottom:20px;
+	padding:0.5em;
+	position:relative;
+}
+
+header h1 {
+	color:#FFF;
+	font-family:"PT Sans Narrow";
+	font-size:1.75em;
+	font-weight:normal;
+	height:40px;
+	margin:0 auto;
+	text-shadow:1px 1px 0 #360, 2px 2px 0 #360;
+	text-transform:uppercase;
+
+	/* MEDIA QUERY */
+	float:left;
+	width:6em;
+
+}
+
+header h1 a {
+	color:#fff;
+	text-decoration:none;
+}
+
+header nav {
+	display:block;
+	height:40px;
+	line-height:2.5;
+	list-style-type:none;
+}
+
+header nav li {
+	display:inline;
+}
+
+header nav li a {
+	background:#363;
+	color:#fff;
+	padding:0.5em 0.75em;
+	text-decoration:none;
+}
+header nav li a:visited,
+header nav li a:focus,
+header nav li a:hover {
+	color:#fff;
+}
+
+/*--------------------------------------------------------------
+* INTRO
+*-------------------------------------------------------------*/
+
+section#intro {
+	font-family:"PT Serif";
+	padding:0.5em;
+}
+
+section#intro blockquote {
+	font-size:1.5em;
+}
+
+/*--------------------------------------------------------------
+* PROJECTS
+*-------------------------------------------------------------*/
+
+section#projects {
+	padding:0.5em;
+}
+
+section#projects h1 {
+	border-bottom:3px solid #ddd;
+	color:#666;
+	font-size:1.2em;
+	margin-bottom:0.5em;
+	text-transform:uppercase;
+}
+
+section#projects h2 {
+	color:#333;
+	font-size:0.95em;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+section#projects article {
+	margin-bottom:0.5em;
+	padding:0.25em;
+}
+
+section#projects article.even {
+	background:#eee;
+}
+
+section#projects img.thumb {
+	background:#fff;
+	border:1px solid #ddd;
+	float:left;
+	height:100px;
+	margin:0.25em;
+	padding:1px;
+	width:100px;
+}
+
+section#projects p {
+	font-size:0.85em;
+}
+
+/*--------------------------------------------------------------
+* PROJECTS
+*-------------------------------------------------------------*/
+
+section#blog {
+	padding:0.5em;
+}
+
+section#blog > h1 {
+	border-bottom:3px solid #ddd;
+	color:#666;
+	font-size:1.2em;
+	margin-bottom:0.5em;
+	text-transform:uppercase;
+}
+
+/*--------------------------------------------------------------
+* CONTACT
+*-------------------------------------------------------------*/
+
+section#contact {
+	font-size:1.2em;
+	padding:0.5em;
+}
+
+section#contact h1 {
+	border-bottom:3px solid #ddd;
+	color:#666;
+	margin-bottom:0.5em;
+	text-transform:uppercase;
+}
+
+section#contact ul {
+	padding-left:1em;
+}
+
+#hcard-Gareth-Rees { display:none; }
+
+/*--------------------------------------------------------------
+* FOOTER
+*-------------------------------------------------------------*/
+
+footer {
+	border-top:1px dotted #ccc;
+	height:80px;
+	margin-top:2em;
+	padding:0.5em;
+}
+
+footer span.copyright {
+	font-size:0.7em;
+}
+
