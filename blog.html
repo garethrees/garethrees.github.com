@@ -1,0 +1,16 @@
+---
+layout: default
+title: Gareth Rees Blog
+---
+
+<section id="blog">
+	<h1>Blog</h1>
+
+	{% for post in site.posts %}
+		<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+		<em>Posted on {{ post.date | date_to_long_string }}.</em>
+	{% endfor %}
+
+</section>
+
+
