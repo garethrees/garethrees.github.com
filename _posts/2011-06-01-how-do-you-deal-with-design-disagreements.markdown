@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: How do you deal with design disagreements?
 ---
 
