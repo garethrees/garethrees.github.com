@@ -1,221 +1,144 @@
 body {
-	background:#fff;
-	color:#222;
-	font-family:"PT Sans", "PT Sans Narrow", "Lucida Grande";
-	line-height:1.5;
+	color:#444;
 }
 
-p {
-	color:#222;
-	margin-bottom:1em;
+a {
+	color:#06C;
+}
+a:visited {
+	color:#99C;
 }
 
-/*--------------------------------------------------------------
-* HEADER
-*-------------------------------------------------------------*/
+a:focus,
+a:hover {
+	background:#06C;
+	color:#FFF;
+	text-decoration:none;
+	text-shadow:none;
+}
+
+/*--- HEADER ---*/
 
 header {
 	background:#9C3;
-	border-bottom:2px solid #690;
-	margin-bottom:20px;
-	padding:0 0.5em;
+	border-bottom:2px solid #360;
+	font-family:Calibri, "Helvetica Neue", Arial, sans-serif;
 	position:relative;
 }
 
 header h1 {
-	color:#000;
-	font-family:"PT Sans Narrow";
-	font-size:2em;
-	font-weight:bold;
-	height:20px;
-/*	margin:0 auto;*/
-	margin-right:40px;
-	text-transform:uppercase;
-
-	/* MEDIA QUERY */
-	float:left;
-/*	width:6em;*/
-
+	margin-bottom:0;
 }
 
-header h1 a {
-	color:#000;
-	text-decoration:none;
-}
-header h1 a:hover,
-header h1 a:focus {
-	background:none;
-	color:#000;
-}
-
-header nav {
+nav {
 	display:block;
-	height:40px;
-	line-height:2.5;
-	list-style-type:none;
+	height:48px;
 }
 
-header nav li {
-	display:inline;height:40px;
-	
+nav ul {
+	bottom:0;
+	display:block;
+	list-style:none;
+	margin:0 0 0 326px;
+	position:absolute;
 }
 
-header nav li a {
-	background:#363;
-	border-radius:3px;
+nav li {
+	display:inline;
+}
+nav a {
+	background:#360;
 	color:#fff;
-	font-family:"PT Sans Narrow";
-	letter-spacing:1px;
-	padding:0.5em 0.75em;
+	display:inline-block;
+	padding:0.25em 1em;
 	text-decoration:none;
-	text-transform:uppercase;
-}
-header nav li a:visited,
-header nav li a:focus,
-header nav li a:hover {
-	color:#fff;
 }
 
-/*--------------------------------------------------------------
-* INTRO
-*-------------------------------------------------------------*/
+/*--- INTRO ---*/
 
-section#intro {
-	font-family:"PT Serif";
-	padding:0.5em;
-}
-
-section#intro blockquote {
+#intro {
+	border-bottom:4px double #eee;
 	font-size:1.5em;
+	margin-bottom:3.03%;
 }
 
-/*--------------------------------------------------------------
-* PROJECTS
-*-------------------------------------------------------------*/
-
-section#projects {
-	padding:0.5em;
+#intro p {
+	margin:0.5em 0;
 }
 
-section#projects h1 {
-	border-bottom:3px solid #ddd;
-	color:#666;
-	font-size:1.2em;
+/*--- PORTFOLIO ---*/
+
+#portfolio {}
+
+.project {
+	margin-bottom:1.515%;
+	padding:1.515%;
+}
+
+.project h2 {
 	margin-bottom:0.5em;
-	text-transform:uppercase;
 }
 
-section#projects h2 {
-	color:#333;
-	font-size:0.95em;
-	font-weight:bold;
-	text-transform:uppercase;
+.project:nth-child(even) {
+  background-color: #f3f3f3;
+	text-shadow:0 1px 0 #fff;
 }
 
-section#projects article {
-	margin-bottom:0.5em;
-	padding:0.25em;
-}
-
-section#projects article.even {
-	background:#eee;
-}
-
-section#projects img.thumb {
-	background:#fff;
-	border:1px solid #ddd;
+.project img {
+	border:4px double #ccc;
 	float:left;
-	height:100px;
-	margin:0.25em;
-	padding:1px;
-	width:100px;
+	margin-right:1.515%;
+	max-width:140px;
 }
 
-section#projects p {
-	font-size:0.85em;
+/*--- SIDEBAR ---*/
+
+#sidebar {
+	border-left:1px solid #eee;
+	padding-left:8px;
+	width:297px;
 }
 
-/*--------------------------------------------------------------
-* BLOG
-*-------------------------------------------------------------*/
+	/*--- BLOG ---*/
 
-section#blog {
-	padding:0.5em;
-}
+	#blog {
+		background:#eee;
+		margin-bottom:1.515%;
+		padding:3.03% !important;
+	}
 
-#posts {
-	margin-left:1em;
-}
-
-.posted-on {
-	color:#999;
-	font-size:0.85em;
-}
-
-section#blog > h1 {
-	border-bottom:3px solid #ddd;
-	color:#666;
-	font-size:1.2em;
-	margin-bottom:0.5em;
-	text-transform:uppercase;
-}
+	#blog ul {
+		line-height:1.8;
+		list-style:none;
+		margin-left:6.06%;
+	}
 
 
-.post {
-	margin-left:1em;
-}
+	/*--- CONTACT ---*/
 
-.post {
-	max-width:640px;
-}
+	#contact {
+		margin-top:3.03%;
+	}
 
-.post h2 {
-	color:#111;
-	font-size:2em;
-	text-transform:uppercase;
-}
+	#contact h3 {
+		margin-bottom:0.25em;
+	}
 
-.post blockquote {
-	color:#666;
-	font-family:Georgia;
-	font-size:2em;
-	margin-left:1em;
-}
+	#contact ul {
+		line-height:1.8;
+		list-style:none;
+		margin-left:6.06%;
+	}
 
-/*--------------------------------------------------------------
-* CONTACT
-*-------------------------------------------------------------*/
+	.vcard { display:none; }
 
-section#contact {
-	font-size:1.2em;
-	padding:0.5em;
-}
-
-section#contact h1 {
-	border-bottom:3px solid #ddd;
-	color:#666;
-	margin-bottom:0.5em;
-	text-transform:uppercase;
-}
-
-section#contact ul {
-	padding-left:1em;
-}
-
-#hcard-Gareth-Rees { display:none; }
-
-/*--------------------------------------------------------------
-* FOOTER
-*-------------------------------------------------------------*/
+/*--- FOOTER ---*/
 
 footer {
-	border-top:1px dotted #ccc;
-	height:80px;
-	margin-top:2em;
-	padding:0.5em;
-}
-
-footer span.copyright {
-	font-size:0.7em;
+	border-top:1px solid #eee;
+	color:#999;
+	font-size:0.85em;
+	margin-top:1.515%;
+	padding:1em 0;
 }
 
