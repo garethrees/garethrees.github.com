@@ -8,8 +8,8 @@ title: Gareth Rees Blog
 
 	<div id="posts" class="clearfix">
 	{% for post in site.posts %}
-		<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-		<span class="posted-on">Posted on {{ post.date | date_to_long_string }}</span>
+		<h2><a href="{{ post.url }}">{{ post.title }}</a> <span class="posted-on">Posted on {{ post.date | date_to_long_string }}</span>
+		</h2>
 	{% endfor %}
 	</div>
 
