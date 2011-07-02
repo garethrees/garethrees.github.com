@@ -3,8 +3,8 @@
 <head>
 	<meta charset="utf-8" />
 	<title>{{ page.title }} / Gareth Rees: Ruby on Rails and Front End Web Developer from Cardiff, Wales UK</title>
-	<link rel="stylesheet" href="/stylesheets/reset.css" />
-	<link rel="stylesheet" href="/stylesheets/vanilla.css" />
+	<link rel="stylesheet" href="/stylesheets/inuit.css" />
+	<link rel="stylesheet" href="/stylesheets/grid.inuit.css" />
 	<link rel="stylesheet" href="/stylesheets/application.css" />
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
 	<!--[if IE]>
@@ -16,13 +16,11 @@
 	
 </head>
 
-<body>
+<body class="wrapper clearfix">
 
 	{% include header.html %}
 
 	{{ content }}
-
-	{% include contact.html %}
 	
 	{% include footer.html %}
 
