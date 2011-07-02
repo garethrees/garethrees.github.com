@@ -142,3 +142,22 @@ footer {
 	padding:1em 0;
 }
 
+
+/*--- POST ---*/
+
+.post {
+	padding-top:20px;
+}
+
+.post blockquote {
+	background:#eee;
+	font-size:3em;
+	text-indent:-0.2em; /* Hang that punctuation */
+}
+
+
+
+
+
+
+
