@@ -3,10 +3,9 @@
 	<section id="blog">
 		<h2>Articles</h2>
 		<ul>
-			<li><a href="#">A blog title</a></li>
-			<li><a href="#">A blog title</a></li>
-			<li><a href="#">A blog title</a></li>
-			<li><a href="#">A blog title</a></li>
+			{% for post in site.posts %}
+			<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+			{% endfor %}
 		</ul>
 	</section>
 
