@@ -26,9 +26,9 @@ inuitcss.com
 Page wrapper. Apply to the body where possible, as per: http://csswizardry.com/2011/01/using-the-body-element-as-a-wrapper/
 */
 .wrapper{
-	width:958px;
+	width:1038px;
 	margin:0 auto;
-	padding:0 10px;
+	padding:0 11px;
 }
 
 /*
@@ -37,8 +37,8 @@ We also allow you to use grid items as stand alone columns or in a series of col
 */
 .grids{
 	clear:both;
-	max-width:978px;
-	margin:0 0 0 -20px;
+	max-width:1060px;
+	margin:0 0 0 -22px;
 	list-style:none; /* So we can make grids out of lists */
 }
 
@@ -52,15 +52,14 @@ INVALID: class="left grid-4"
 */
 [class^="grid-"]{
 	float:left;
-	margin:0 20px 0 0;
+	margin:0 22px 0 0;
 }
 .grids [class^="grid-"]{
-	margin:0 0 0 20px;
+	margin:0 0 0 22px;
 }
 
-.grid-1{ width:143px }
-.grid-2{ width:306px }
-.grid-3{ width:469px }
-.grid-4{ width:632px }
-.grid-5{ width:795px }
-.grid-6{ width:958px; margin:0 }
+.grid-1{ width:190px }
+.grid-2{ width:402px }
+.grid-3{ width:614px }
+.grid-4{ width:826px }
+.grid-5{ width:1038px; margin:0 }
