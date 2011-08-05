@@ -1,0 +1,140 @@
+body {
+	background:#AAB3BA;
+	background:#F9FFFE;
+	color:#444;
+}
+
+header {
+	margin-top:1em !important;
+}
+
+header h1 {
+	font-size:3.5em;
+	letter-spacing:-0.025em;
+	line-height:1;
+	margin:0;
+}
+header h1 a {
+	background:rgba(255,255,255,0.4);
+	color:#3252B2 !important;
+	text-decoration: none;
+}
+header h1 a:visited {
+	color:#F9FFFE;
+}
+header h1 a:hover {
+	color:#3252B2;
+}
+
+nav {
+	border-bottom:2px solid rgba(255,255,255,0.4);
+	text-transform:uppercase;
+}
+
+nav ul {
+	margin:0;
+	padding-left:0;
+}
+
+nav li {
+	border-right:1px solid #ccc;
+	display:inline;
+	margin-right:0.5em;
+	padding-right:0.5em;
+}
+nav li:last-child {
+	border:none;
+}
+
+nav a {
+	color:#666;
+	display:inline-block;
+	padding:1em;
+	text-decoration:none;
+}
+
+nav a:visited { color:#666; }
+
+nav a:focus,
+nav a:hover {
+	color:#666;
+}
+
+section > h1 {
+	font-size:12em;
+	margin:20px 0;
+}
+
+figure img,
+img.bordered {
+	background:#eee;
+	border:1px solid #ccc;
+	-webkit-box-shadow:0 0 5px #bbb;
+	-moz-box-shadow:0 0 5px #bbb;
+	box-shadow:0 0 5px #bbb;
+	padding:6px;
+	width:97%;
+}
+
+/*------------------------------------*\
+	BLOG
+\*------------------------------------*/
+
+#posts ul {
+	list-style:none;
+	padding:0;
+}
+
+#posts li {
+	font-size:1.5em;
+	font-weight:bold;
+	margin:0.5em 0;
+}
+
+.posted-on {
+	color:#bbb;
+	font-size:0.75em;
+	font-weight:normal;
+}
+
+
+/*--- POST ---*/
+
+.post {
+	padding-top:20px;
+	font-family:Verdana, "Helvetica Neue", Helvetica, Arial, Sans-Serif;
+	font-size:0.85em;
+}
+
+.post blockquote {
+	background:#eee;
+	font-size:3em;
+	font-weight:bold;
+	text-indent:-0.2em;
+}
+
+/*------------------------------------*\
+	PORTFOLIO
+\*------------------------------------*/
+
+#portfolio figure {
+	margin-bottom:3em;
+}
+
+
+/*------------------------------------*\
+	FOOTER
+\*------------------------------------*/
+
+
+footer {
+	border-top:1px solid #ccc;
+	font-size:0.85em;
+	margin-top:3em !important;
+	padding:0.75em 0;
+}
+
+footer ul {
+	padding-left:0 !important;
+}
+

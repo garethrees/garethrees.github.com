@@ -27,83 +27,19 @@ limitations under the License.
 */
 
 
-
-
-
-/*------------------------------------*\
-	RESET
-\*------------------------------------*/
-html,body,div,span,applet,object,iframe,
-h1,h2,h3,h4,h5,h6,p,blockquote,pre,
-a,abbr,acronym,address,big,cite,code,
-del,dfn,em,img,ins,kbd,q,s,samp,
-small,strike,strong,sub,sup,tt,var,
-b,u,i,center,
-dl,dt,dd,ol,ul,li,
-fieldset,form,label,legend,
-table,caption,tbody,tfoot,thead,tr,th,td,
-article,aside,canvas,details,figcaption,figure,
-footer,header,hgroup,menu,nav,section,summary,
-time,mark,audio,video{
-	margin:0;
-	padding:0;
-}
-article,aside,details,figcaption,figure,footer,
-header,hgroup,menu,nav,section{
-	display: block;
-}
-
-:focus {
-	border:0;
-	outline:0;
-}
-
-table{
-	border-collapse:collapse;
-	border-spacing:0;
-}
-fieldset,img{ 
-	border:0;
-}
-address,caption,cite,dfn,th,var{
-	font-style:normal;
-	font-weight:normal;
-}
-caption,th{
-	text-align:left;
-}
-h1,h2,h3,h4,h5,h6{
-	font-size:100%;
-	font-weight:normal;
-}
-q:before,q:after{
-	content:'';
-}
-abbr,acronym{
-	border:0;
-}
-
-
-
-
-
 /*------------------------------------*\
 	MAIN
 \*------------------------------------*/
 html{
 	overflow-y:scroll; /* Force scrollbars 100% of the time */
 	font-size:100%; /* Use 16px as per http://www.informationarchitects.jp/en/100e2r/ and http://www.wilsonminer.com/posts/2008/oct/20/relative-readability/ */
-	font-family:Calibri, "Helvetica Neue", Arial, sans-serif; /* Swap these two lines around to switch between serif and sans */
-	font-family:Cambria, Georgia, "Times New Roman", serif; /* Swap these two lines around to switch between serif and sans */
+	font-family:Calibri, "Helvetica Neue", Helvetica, Arial, sans-serif; /* Swap these two lines around to switch between serif and sans */
 	line-height:1.5;
 /*	background:url("../images/baseline.gif") 0 18px #fff;*/
-	color:#333;
 }
 body{
 	min-height:100%;
 }
-
-
 
 
 
@@ -116,6 +52,437 @@ Build a custom grid-system igloo at inuitcss.com
 
 
 
+/*! normalize.css 2011-08-03T09:41 UTC · http://github.com/necolas/normalize.css */
+
+/* =============================================================================
+   HTML5 display definitions
+   ========================================================================== */
+
+/*
+ * Corrects block display not defined in IE6/7/8/9 & FF3
+ */
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section {
+    display: block;
+}
+
+/*
+ * Corrects inline-block display not defined in IE6/7/8/9 & FF3
+ */
+
+audio,
+canvas,
+video {
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+}
+
+/*
+ * Prevents modern browsers from displaying 'audio' without controls
+ */
+
+audio:not([controls]) {
+    display: none;
+}
+
+/*
+ * Addresses styling for 'hidden' attribute not present in IE6/7/8/9, FF3, S4
+ */
+
+[hidden] {
+    display: none;
+}
+
+
+/* =============================================================================
+   Base
+   ========================================================================== */
+
+/*
+ * 1. Corrects text resizing oddly in IE6/7 when body font-size is set using em units
+ *    http://clagnut.com/blog/348/#c790
+ * 2. Keeps page centred in all browsers regardless of content height
+ * 3. Prevents iOS text size adjust after orientation change, without disabling user zoom
+ *    www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/
+ */
+
+html {
+    font-size: 100%; /* 1 */
+    overflow-y: scroll; /* 2 */
+    -webkit-text-size-adjust: 100%; /* 3 */
+    -ms-text-size-adjust: 100%; /* 3 */
+}
+
+/*
+ * Addresses margins handled incorrectly in IE6/7
+ */
+
+body {
+    margin: 0;
+}
+
+/* 
+ * Addresses font-family inconsistency between 'textarea' and other form elements.
+ */
+
+
+
+/* =============================================================================
+   Links
+   ========================================================================== */
+
+a {
+    color: #3252B2;
+}
+
+a:visited {
+/*    color: #551a8b;*/
+}
+
+/*
+ * Addresses outline displayed oddly in Chrome
+ */
+
+a:focus {
+    outline: thin dotted;
+}
+
+/*
+ * Improves readability when focused and also mouse hovered in all browsers
+ * people.opera.com/patrickl/experiments/keyboard/test
+ */
+
+a:hover,
+a:active {
+	background:#FF6;
+	color:#3252B2;
+	outline: 0;
+	text-decoration:none;
+}
+
+/* =============================================================================
+   Typography
+   ========================================================================== */
+
+/*
+ * Addresses styling not present in IE7/8/9, S5, Chrome
+ */
+
+abbr[title] {
+    border-bottom: 1px dotted;
+}
+
+/*
+ * Addresses style set to 'bolder' in FF3/4, S4/5, Chrome
+*/
+
+b, 
+strong { 
+    font-weight: bold; 
+}
+
+blockquote {
+    margin: 1em 40px;
+}
+
+/*
+ * Addresses styling not present in S5, Chrome
+ */
+
+dfn {
+    font-style: italic;
+}
+
+/*
+ * Addresses styling not present in IE6/7/8/9
+ */
+
+mark {
+    background: #ff0;
+    color: #000;
+}
+
+/*
+ * Corrects font family set oddly in IE6, S5, Chrome
+ * en.wikipedia.org/wiki/User:Davidgothberg/Test59
+ */
+
+pre,
+code,
+kbd,
+samp {
+    font-family: monospace, monospace;
+    _font-family: 'courier new', monospace;
+    font-size: 1em;
+}
+
+/*
+ * Improves readability of pre-formatted text in all browsers
+ */
+
+pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+/*
+ * 1. Addresses CSS quotes not supported in IE6/7
+ * 2. Addresses quote property not supported in S4
+ */
+
+/* 1 */
+
+q {
+    quotes: none;
+}
+
+/* 2 */
+
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+small {
+    font-size: 75%;
+}
+
+/*
+ * Prevents sub and sup affecting line-height in all browsers
+ * gist.github.com/413930
+ */
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -0.5em;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+
+/* =============================================================================
+   Lists
+   ========================================================================== */
+
+ul,
+ol {
+    margin: 1em 0;
+    padding: 0 0 0 40px;
+}
+
+dd {
+    margin: 0 0 0 40px;
+}
+
+nav ul,
+nav ol {
+    list-style: none;
+    list-style-image: none;
+}
+
+
+/* =============================================================================
+   Embedded content
+   ========================================================================== */
+
+/*
+ * 1. Removes border when inside 'a' element in IE6/7/8/9
+ * 2. Improves image quality when scaled in IE7
+ *    code.flickr.com/blog/2008/11/12/on-ui-quality-the-little-things-client-side-image-resizing/
+ */
+
+img {
+    border: 0; /* 1 */
+    -ms-interpolation-mode: bicubic; /* 2 */
+}
+
+/*
+ * Corrects overflow displayed oddly in IE9 
+ */
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+
+/* =============================================================================
+   Figures
+   ========================================================================== */
+
+/*
+ * Addresses margin not present in IE6/7/8/9, S5, O11
+ */
+
+figure {
+    margin: 0;
+}
+
+
+/* =============================================================================
+   Forms
+   ========================================================================== */
+
+/*
+ * Corrects margin displayed oddly in IE6/7
+ */
+
+form {
+    margin: 0;
+}
+
+/*
+ * Define consistent margin and padding
+ */
+
+fieldset {
+    margin: 0 2px;
+    padding: 0.35em 0.625em 0.75em;
+}
+
+/*
+ * 1. Corrects color not being inherited in IE6/7/8/9
+ * 2. Corrects alignment displayed oddly in IE6/7
+ */
+
+legend {
+    border: 0; /* 1 */
+    *margin-left: -7px; /* 2 */
+}
+
+/*
+ * 1. Corrects font size not being inherited in all browsers
+ * 2. Addresses margins set differently in IE6/7, F3/4, S5, Chrome
+ * 3. Improves appearance and consistency in all browsers
+ */
+
+button,
+input,
+select,
+textarea {
+    font-size: 100%; /* 1 */
+    margin: 0; /* 2 */
+    vertical-align: baseline; /* 3 */
+    *vertical-align: middle; /* 3 */
+}
+
+/*
+ * 1. Addresses FF3/4 setting line-height using !important in the UA stylesheet
+ * 2. Corrects inner spacing displayed oddly in IE6/7
+ */
+
+button,
+input {
+    line-height: normal; /* 1 */
+    *overflow: visible;  /* 2 */
+}
+
+/*
+ * Corrects overlap and whitespace issue for buttons and inputs in IE6/7
+ * Known issue: reintroduces inner spacing
+ */
+
+table button,
+table input {
+    *overflow: auto;
+}
+
+/*
+ * 1. Improves usability and consistency of cursor style between image-type 'input' and others
+ * 2. Corrects inability to style clickable 'input' types in iOS
+ */
+
+button,
+html input[type="button"], 
+input[type="reset"], 
+input[type="submit"] {
+    cursor: pointer; /* 1 */
+    -webkit-appearance: button; /* 2 */
+}
+
+/*
+ * Addresses box sizing set to content-box in IE8/9
+ */
+
+input[type="checkbox"],
+input[type="radio"] {
+    box-sizing: border-box;
+}
+
+/*
+ * 1. Addresses appearance set to searchfield in S5, Chrome
+ * 2. Addresses box sizing set to border-box in S5, Chrome (include -moz to future-proof)
+ */
+
+input[type="search"] {
+    -webkit-appearance: textfield; /* 1 */
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box; /* 2 */
+    box-sizing: content-box;
+}
+
+/*
+ * Corrects inner padding displayed oddly in S5, Chrome on OSX
+ */
+
+input[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+}
+
+/*
+ * Corrects inner padding and border displayed oddly in FF3/4
+ * www.sitepen.com/blog/2008/05/14/the-devils-in-the-details-fixing-dojos-toolbar-buttons/
+ */
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+/*
+ * 1. Removes default vertical scrollbar in IE6/7/8/9
+ * 2. Improves readability and alignment in all browsers
+ */
+
+textarea {
+    overflow: auto; /* 1 */
+    vertical-align: top; /* 2 */
+}
+
+
+/* =============================================================================
+   Tables
+   ========================================================================== */
+
+/* 
+ * Remove most spacing between table cells
+ */
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
 
 
 /*------------------------------------*\
@@ -141,229 +508,6 @@ Fix clearing issues as per: http://nicolasgallagher.com/micro-clearfix-hack/
 }
 
 
-
-
-
-/*------------------------------------*\
-	LOGO
-\*------------------------------------*/
-/*
-Your logo is an image, not a h1: http://csswizardry.com/2010/10/your-logo-is-an-image-not-a-h1/
-*/
-#logo,
-#logo img{
-	display:block;
-	width:auto; /* Width of your logo in pixels (ideally a round grid-number) */
-	height:auto; /* Height of your logo in pixels */
-}
-/* Based on the fact that we need to use an <img /> in our markup, let’s hide the actual image and use a background on the <a>--this gives us semantically sound markup and the ability to use sprites for hover effects! */
-#logo{
-	background:url(/path/to/logo);
-}
-#logo:hover{
-	/* Hover states */
-	background-position:0 -00px;
-}
-#logo img{
-	position:absolute;
-	left:-99999px;
-}
-
-
-
-
-
-/*------------------------------------*\
-	NAV
-\*------------------------------------*/
-.nav{
-	list-style:none;
-	margin:0 0 1.5em 0;
-}
-.nav li{
-	display:inline;
-}
-.nav a{
-	display:inline-block;
-}
-
-
-
-
-
-/*------------------------------------*\
-	TYPE
-\*------------------------------------*/
-/*--- HEADINGS ---*/
-h1{
-	font-size:2em;			/* 32px */
-	margin-bottom:0.75em;	/* 24px */
-	line-height:1.5;		/* 48px */
-}
-h2{
-	font-size:1.5em;		/* 24px */
-	margin-bottom:1em;		/* 24px */
-	line-height:1;			/* 24px */
-}
-h3{
-	font-size:1.25em;		/* 20px */
-	margin-bottom:1.2em;	/* 24px */
-	line-height:1.2;		/* 24px */
-}
-h4{
-	font-size:1.125em;		/* 18px */
-	margin-bottom:1.333em;	/* 24px */
-	line-height:1.333;		/* 24px */
-}
-h5{
-	font-weight:bold;
-}
-h5,
-h6{
-	font-size:1em;			/* 16px */
-	margin-bottom:1.5em;	/* 24px */
-	line-height:1.5;		/* 24px */
-}
-
-/*--- PARAGRAPHS ---*/
-p,
-address{
-	margin-bottom:1.5em;
-}
-/*
-Mo’ robust paragraph indenting: http://csswizardry.com/2010/12/mo-robust-paragraph-indenting/
-Uncomment to activate
-p+p{
-	text-indent:2em;
-	margin-top:-1.5em;
-}
-*/
-
-/*--- FIGURES ---*/
-figure{
-	margin-bottom:1.5em;
-}
-figure img{
-	display:block;
-	margin-bottom:0;
-}
-figcaption{
-	font-size:0.75em;
-}
-
-/*--- LINKS ---*/
-/*
-Say no to negative hovers: http://csswizardry.com/2011/05/on-negative-hovers/
-A negative hover is one whose appearance is subtracted from on hover rather than added to.
-*/
-a{
-	text-decoration:underline;
-}
-a:visited{
-	opacity:0.8; /* A bit basic, but it’s a bare minumum... */
-}
-a:hover{
-	text-decoration:none;
-}
-a:active,
-a:focus{
-	/* Give clicked links a depressed effect. */
-/*	position:relative;
-	top:1px;*/
-}
-
-/*--- LISTS ---*/
-ul,
-ol{
-	margin:0 0 1.5em 60px;
-}
-ul ul,
-ol ol,
-ul ol,
-ol ul{
-	/* Let’s take care of lists in lists */
-	margin:0 0 0 60px;
-}
-
-/*
-A numbered list is NOT the same as an ordered one.
-Use this class when you want a list to be numbered but it has no order.
-See http://jsfiddle.net/csswizardry/sdrth/
-*/
-ul.numbered{
-	list-style:decimal outside;
-}
-dl{
-	margin-bottom:1.5em;
-}
-dt{
-	font-weight:bold;
-}
-dt:after{
-	content:":";
-}
-dt::after{
-	content:":";
-}
-dd{
-	margin-left:60px;
-}
-
-/*--- QUOTES ---*/
-blockquote{
-	text-indent:-0.4em; /* Hang that punctuation */
-}
-blockquote b,
-blockquote .source{
-	/* Mark the source up with either a <b> or another element of your choice with a class of source. */
-	display:block;
-	text-indent:0;
-}
-
-/*--- GENERAL ---*/
-q,
-i,
-em,
-cite{
-	font-style:italic;
-	font-weight:inherit;
-}
-b,
-strong{
-	font-weight:bold;
-	font-style:inherit;
-}
-mark{
-	background:#ffc;
-}
-s,
-del{
-	text-decoration:line-through;
-}
-small{
-	font-size:0.75em;
-	line-height:1;
-}
-
-/*--- CODE ---*/
-pre,
-code{
-	font-family:monospace;
-	font-size:1em;
-}
-pre{
-	overflow:auto;
-	margin-bottom:1.5em;
-	line-height:24px; /* Having to define explicit pixel values :( */
-}
-code{
-	line-height:1;
-}
-
-
-
-
-
 /*------------------------------------*\
 	IMAGES
 \*------------------------------------*/
@@ -386,211 +530,6 @@ video{
 }
 
 
-
-
-
-/*------------------------------------*\
-	FORMS
-\*------------------------------------*/
-/*
-Unfortunately, and somewhat obviously, forms don’t fit the baseline all too well. Perhaps in a later version...
-*/
-fieldset{
-	padding:10px;
-	border:1px solid #ccc;
-	margin-bottom:1.5em;
-}
-label{
-	display:block;
-	cursor:pointer;
-}
-label:after{
-	content:":";
-}
-label::after{
-	content:":";
-}
-input,
-textarea{
-	font-family:inherit;
-	font-size:1em;
-	line-height:1.5;
-}
-
-/*
-Nice UI touch for placeholders. To get placeholders working cross-browser see @dan_bentley’s jQuery plugin: https://github.com/danbentley/placeholder
-*/
-[placeholder]{
-	cursor:pointer;
-}
-[placeholder]:active,
-[placeholder]:focus{
-	cursor:text;
-}
-.check-list{
-	width:100%;
-	overflow:hidden;
-	list-style:none;
-	margin:0 0 1.5em 0;
-}
-.check-list li{
-	width:25%;
-	float:left;
-}
-.check-label{
-	display:inline;
-}
-.check-label:after{
-	content:normal;
-}
-.check-label::after{
-	content:normal;
-}
-.button{
-	cursor:pointer;
-}
-fieldset > :last-child{
-	/* Remove the margin from the last element in the fieldset--this makes our padding more consistent. */
-	margin:0;
-}
-
-
-
-
-
-/*------------------------------------*\
-	TABLES
-\*------------------------------------*/
-/*
-Unfortunately, and somewhat obviously, tables don’t fit the baseline all too well. Perhaps in a later version...
-*/
-table{
-	margin-bottom:1.5em;
-	width:100%;
-	max-width:100%;
-}
-thead tr:last-of-type th{
-	/* Thicker border on the table-headers of the last row in the table head */
-	border-bottom-width:2px;
-}
-tbody th{
-	/* Thicker right border on table-headers in the table body */
-	border-right-width:2px;
-}
-th:empty{
-	/* Hide the borders on any empty table-headers */
-	border:none;
-}
-th,td{
-	vertical-align:top;
-	padding:0.75em;
-	border:1px solid #ccc;
-}
-th{
-	font-weight:bold;
-	text-align:center
-}
-table [colspan]{
-	/* This looks lovely, trust me... */
-	text-align:center;
-}
-table [rowspan]{
-	/* ...as does this. */
-	vertical-align:middle;
-}
-/*
-Assuming IE has an 'implied' colspan of one on cells without an explicit colspan attribute, fix/undo it.
-See http://jsfiddle.net/csswizardry/UJJay/
-*/
-[colspan="1"]{
-    text-align:left;
-}
-[rowspan="1"]{
-    vertical-align:top;
-}
-tbody tr:nth-of-type(odd){
-	background:rgba(0,0,0,0.05);
-}
-tfoot{
-	text-align:center;
-}
-tfoot td{
-	border-top-width:2px;
-}
-
-
-
-
-
-/*------------------------------------*\
-	MESSAGES
-\*------------------------------------*/
-/*
-Unfortunately feedback messages don’t fit the baseline all too well. Perhaps in a later version...
-*/
-.message{
-	font-weight:normal;
-	display:block;
-	padding:10px 10px 10px 36px;
-	border:1px solid #ccc;
-	margin:0 0 1.5em 0;
-	
-	-moz-border-radius:2px;
-	-webkit-border-radius:2px;
-	border-radius:2px;
-	-moz-box-shadow:0 1px 0 rgba(255,255,255,0.5) inset;
-	-webkit-box-shadow:0 1px 0 rgba(255,255,255,0.5) inset;
-	box-shadow:0 1px 0 rgba(255,255,255,0.5) inset;
-}
-/* With multiple errors it’s nice to group them. */
-ul.message{
-	list-style:decimal outside; /* It’s also handy to number them. However, they might not necessarily be in a particular order, so we spoof it by putting numbers on an unordered list */
-	padding:10px 10px 10px 56px;
-}
-.error{
-	border-color:#fb5766;
-	background:url(../img/css/icons/error.png) 10px center no-repeat #fab;
-}
-.success{
-	border-color:#83ba77;
-	background:url(../img/css/icons/success.png) 10px center no-repeat #d1feba;
-}
-.info{
-	border-color:#85a5be;
-	background:url(../img/css/icons/info.png) 10px center no-repeat #c4dbec;
-}
-.warning{
-	border-color:#d8d566;
-	background:url(../img/css/icons/warning.png) 10px center no-repeat #fef8c4;
-}
-
-
-
-
-
-/*------------------------------------*\
-	MISC
-\*------------------------------------*/
-hr{
-	margin:0 0 1.5em 0;
-}
-.accessibility{
-	/* Hide content off-screen without hiding from screen-readers. N.B. This is not suited to RTL languages */
-	position:absolute;
-	left:-99999px;
-}
-.more-link:after{
-	/* Too many people use &raquo; in their markup to signify progression/movement, that ain’t cool. Let’s insert that using content:""; */
-	content:" »";
-}
-.more-link::after{
-	content:" »";
-}
-
-
-
-
-
 /*------------------------------------*\
 	CLASSES
 \*------------------------------------*/
@@ -605,77 +544,6 @@ Some not-too-pretty and insemantic classes to do odd jobs.
 .text-right		{ text-align:right; }
 .text-center,
 .text-centre	{ text-align:center; }
-
-
-
-
-
-/*------------------------------------*\
-	DIAGNOSTICS
-\*------------------------------------*/
-/*
-APPLY A CLASS OF .debug TO THE HTML ELEMENT ONLY WHEN YOUR SITE IS ON DEV
-
-Turn the grids back on. Idea given by @VictorPimentel
-*/
-
-.debug		{ background:url(../img/css/baseline.gif) 0 18px #fff!important; }
-
-/*
-Red border == something is wrong
-Yellow border == something may be wrong, you should double check.
-Green border == perfect, nice one!
-*/
-
-/* Styles */
-.debug [style]{
-	/* Inline styles aren’t great, can this be avoided? */
-	outline:5px solid yellow;
-}
-
-/* Images */
-.debug img{
-	/* Images without alt attributes are bad! */
-	outline:5px solid red;
-}
-.debug img[alt]{
-	/* Images with alt attributes are good! */
-	outline-color:green;
-}
-.debug img[alt=""]{
-	/* Images with empty alt attributes are okay in the right circumstances. */
-	outline-color:yellow;
-}
-
-/* Links */
-.debug a{
-	/* Links without titles are yellow, does your link need one? */
-	outline:5px solid yellow;
-}
-.debug a[title]{
-	/* Links with titles are green, title attributes can be very useful! */
-	outline-color:green;
-}
-.debug a[href="#"]{
-	/* Were you meant to leave that hash in there? */
-	outline-color:yellow;
-}
-.debug a[target]/*,
-.debug a[onclick],
-.debug a[href*=javascript]*/{
-	/* What were you thinking?! */
-	outline-color:red;
-}
-
-/* Classes/IDs */
-.debug [class=""],
-.debug [id=""]{
-	/* Is this element meant to have an empty class/ID? */
-	outline:5px solid yellow;
-}
-
-
-
 
 
 /*------------------------------------*\
@@ -790,6 +658,15 @@ dd{
 \*------------------------------------*/
 img.left,
 img.right	{ max-width:50%; height:auto; }
+
+
+
+/*------------------------------------*\
+	APP
+\*------------------------------------*/
+
+	section > h1 { font-size:3em !important;}
+
 }
 /*--- END MOBILE ---*/
 
