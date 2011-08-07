@@ -3,7 +3,7 @@ layout: post
 title: How do you deal with design disagreements?
 ---
 
-## How do you deal with design disagreements?
+# How do you deal with design disagreements?
 
 In work we’re designing a landing page that acts as a springboard to different areas of advice our company provides. We came to a point where we disagreed on the best way to lay out the links to specific advice within each section.
 
