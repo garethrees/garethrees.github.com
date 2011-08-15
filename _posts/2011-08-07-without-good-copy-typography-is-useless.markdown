@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Without Good Copy, Typography is Useless
+meta: Good web copy is needed to design good typography on a website. This article shows how good copy can be well formatted.
 ---
 
 # Without Good Copy, Typography is Useless
