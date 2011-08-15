@@ -114,6 +114,11 @@ img.bordered {
 	text-indent:-0.2em;
 }
 
+#disqus_thread {
+	border-top:1px dotted #999;
+	padding-top:1em !important;
+}
+
 /*------------------------------------*\
 	PORTFOLIO
 \*------------------------------------*/
