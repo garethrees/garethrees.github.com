@@ -113,6 +113,13 @@ img.bordered {
 	text-indent:-0.2em;
 }
 
+.post .update {
+	color:#999;
+	font-weight:bold;
+	text-shadow:-1px -1px 0 #eee;
+	text-transform:uppercase;
+}
+
 #disqus_thread {
 	border-top:1px dotted #999;
 	padding-top:1em !important;

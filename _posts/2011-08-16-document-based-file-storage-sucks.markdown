@@ -36,6 +36,7 @@ In terms of technical implementation, notes could be stored in some sort of wrap
 
 I really, really want an app like this. I&rsquo;d love to help someone build it, or gladly pay someone who already has. For now though, I think I&rsquo;ll be buying a [Moleskine](http://www.amazon.co.uk/Moleskine-Ruled-Notebook-13-21cm/dp/8883701127/ref=sr_1_1?ie=UTF8&qid=1313532410&sr=8-1).
 
+<p><span class="update">Update:</span> Another great feature of a physical notebook is that nothing usually gets deleted. I often delete items on my next actions list which leaves no record of what I&rsquo;ve achieved. If I was making this app I&rsquo;d strongly consider disabling deletion of items after 15 minutes, instead allowing only a strikethrough style to ensure the data is persistent forever.</p>
 
 
 
