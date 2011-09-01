@@ -100,17 +100,13 @@ img.bordered {
 
 /*--- POST ---*/
 
-.post {
-	padding-top:20px;
-	font-size:0.85em;
-	line-height:1.75;
-}
+.post {}
 
 .post blockquote {
-	background:#eee;
-	font-size:3em;
+	background:#E1EEEC;
+	font-size:1.5em;
 	font-weight:bold;
-	text-indent:-0.2em;
+	text-indent:0;
 }
 
 .post .update {
