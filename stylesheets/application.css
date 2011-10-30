@@ -100,7 +100,9 @@ img.bordered {
 
 /*--- POST ---*/
 
-.post {}
+.post {
+	font-size:1.25em;
+}
 
 .post blockquote {
 	background:#E1EEEC;
