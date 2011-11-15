@@ -4,61 +4,73 @@ body {
 	color:#444;
 }
 
-header {
+/*------------------------------------*\
+	BANNER
+\*------------------------------------*/
+
+#banner {
 	margin-top:1em !important;
 }
 
-header h1 {
+#banner h1 {
 	font-size:3.5em;
 	letter-spacing:-0.025em;
 	line-height:1;
 	margin:0;
 }
-header h1 a {
+#banner h1 a {
 	background:rgba(255,255,255,0.4);
 	color:#3252B2 !important;
 	text-decoration: none;
 }
-header h1 a:visited {
+#banner h1 a:visited {
 	color:#F9FFFE;
 }
-header h1 a:hover {
+#banner h1 a:hover {
 	color:#3252B2;
 }
 
-nav {
+/*------------------------------------*\
+	MAIN NAV
+\*------------------------------------*/
+
+#banner nav {
 	border-bottom:2px solid rgba(255,255,255,0.4);
 	text-transform:uppercase;
 }
 
-nav ul {
+#banner nav ul {
 	margin:0;
 	padding-left:0;
 }
 
-nav li {
+#banner nav li {
 	border-right:1px solid #ccc;
 	display:inline;
 	margin-right:0.5em;
 	padding-right:0.5em;
 }
-nav li:last-child {
+#banner nav li:last-child {
 	border:none;
 }
 
-nav a {
+#banner nav a {
 	color:#666;
 	display:inline-block;
 	padding:1em;
 	text-decoration:none;
 }
 
-nav a:visited { color:#666; }
+#banner nav a:visited { color:#666; }
 
-nav a:focus,
-nav a:hover {
+#banner nav a:focus,
+#banner nav a:hover {
 	color:#666;
 }
+
+/*------------------------------------*\
+	MISC
+\*------------------------------------*/
 
 section > h1 {
 	font-size:12em;
@@ -91,27 +103,37 @@ img.bordered {
 	margin:0.5em 0;
 }
 
-.posted-on {
+#posts .posted-on {
 	color:#bbb;
 	font-size:0.75em;
 	font-weight:normal;
 }
 
 
-/*--- POST ---*/
+/*------------------------------------*\
+	POST
+\*------------------------------------*/
 
-.post {
+#post {
 	font-size:1.25em;
+	margin-top:3em;
 }
 
-.post blockquote {
+#post h1 {
+	font-size:3.5em;
+	letter-spacing:-0.025em;
+	line-height:1;
+	margin:0 0 0.5em 0;
+}
+
+#post blockquote {
 	background:#E1EEEC;
 	font-size:1.5em;
 	font-weight:bold;
 	text-indent:0;
 }
 
-.post .update {
+#post .update {
 	color:#999;
 	font-weight:bold;
 	text-shadow:-1px -1px 0 #eee;
