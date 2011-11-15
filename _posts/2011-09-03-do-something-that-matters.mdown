@@ -4,7 +4,7 @@ title: Do Something That Matters
 meta: Some thoughts on what I want to do in life
 ---
 
-# Do Something That Matters
+# {{ page.title }}
 
 At the moment I'm really keen on finding a direction I want to take my work. I have a rough idea of the type of lifestyle I want, but trying to set some lower level goals is pretty difficult.
 
