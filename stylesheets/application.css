@@ -5,6 +5,28 @@ body {
 }
 
 /*------------------------------------*\
+	MISC
+\*------------------------------------*/
+
+/* Big Page Headers */
+section > h1:first-of-type,
+article > h1:first-of-type {
+	font-size:12em;
+	margin:20px 0;
+}
+
+figure img,
+img.bordered {
+	background:#eee;
+	border:1px solid #ccc;
+	-webkit-box-shadow:0 0 5px #bbb;
+	-moz-box-shadow:0 0 5px #bbb;
+	box-shadow:0 0 5px #bbb;
+	padding:6px;
+	width:97%;
+}
+
+/*------------------------------------*\
 	BANNER
 \*------------------------------------*/
 
@@ -66,26 +88,6 @@ body {
 #banner nav a:focus,
 #banner nav a:hover {
 	color:#666;
-}
-
-/*------------------------------------*\
-	MISC
-\*------------------------------------*/
-
-section > h1 {
-	font-size:12em;
-	margin:20px 0;
-}
-
-figure img,
-img.bordered {
-	background:#eee;
-	border:1px solid #ccc;
-	-webkit-box-shadow:0 0 5px #bbb;
-	-moz-box-shadow:0 0 5px #bbb;
-	box-shadow:0 0 5px #bbb;
-	padding:6px;
-	width:97%;
 }
 
 /*------------------------------------*\
