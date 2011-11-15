@@ -80,9 +80,9 @@ img.bordered {
 	BLOG
 \*------------------------------------*/
 
-#posts ul {
+#posts {
 	list-style:none;
-	padding:0;
+	padding-left:1em;
 }
 
 #posts li {
@@ -146,15 +146,22 @@ img.bordered {
 	FOOTER
 \*------------------------------------*/
 
-
-footer {
-	border-top:1px solid #ccc;
+#footer {
+	border-top:1px dotted #ccc;
 	font-size:0.85em;
-	margin-top:3em !important;
+	margin-bottom:3em;
+	margin-top:3em;
 	padding:0.75em 0;
 }
 
-footer ul {
-	padding-left:0 !important;
+#footer #network {
+	color:#ccc;
+	margin-left:0 !important;
+	padding-left:22px !important;
+}
+
+#footer #copyright {
+	color:#888;
+	text-align:right;
 }
 
