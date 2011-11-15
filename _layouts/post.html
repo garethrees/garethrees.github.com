@@ -1,51 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8" />
-	<title>{{ page.title }} / Gareth Rees: Ruby on Rails and Front End Web Developer from Cardiff, Wales UK</title>
-	<meta name="description" content="{{ page.meta }}" />
-	<link rel="stylesheet" href="/stylesheets/inuit.css" />
-	<link rel="stylesheet" href="/stylesheets/grid.inuit.css" />
-	<link rel="stylesheet" href="/stylesheets/application.css" />
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
-	<!--[if IE]>
-		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
-	<link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:regular,bold' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
-	
-</head>
+---
+layout: default
+---
 
-<body class="wrapper clearfix">
+<article id="post" class="grid-3 clearfix">
 
-	{% include header.html %}
+	{{ content }}
 
-	<article class="grid-3 post clearfix">
+	<footer>
+		{% include disqus.html %}
+	</footer>
 
-		{{ content }}
+</article>
+<div class="clear"></div>
 
-		<div id="disqus_thread"></div>
-		<script type="text/javascript">
-		    var disqus_shortname = 'garethrees';
-		    var disqus_url = '{{ site.site }}{{ page.url }}';
 
-		    (function() {
-		        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-		        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-		        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-		    })();
-		</script>
-		<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-		<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-
-	</article>
-
-	<div class="clear"></div>
-	
-	{% include footer.html %}
-
-	{% include analytics.html %}
-
-</body>
-</html>
