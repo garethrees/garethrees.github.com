@@ -6,57 +6,62 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>http://garethrees.co.uk/</loc>
-  <lastmod>2011-09-29T18:18:52+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2011-11-17T13:48:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://garethrees.co.uk/portfolio/</loc>
-  <lastmod>2011-09-29T18:18:52+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2011-11-17T13:48:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://garethrees.co.uk/gareth-rees-cv.pdf</loc>
-  <lastmod>2011-09-29T18:18:52+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2011-11-17T13:48:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://garethrees.co.uk/2011/10/30/driving-a-ferrari/</loc>
+  <lastmod>2011-11-17T13:48:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://garethrees.co.uk/2011/09/29/read-every-word-they-say/</loc>
-  <lastmod>2011-09-29T18:18:52+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2011-11-17T13:48:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://garethrees.co.uk/2011/09/03/do-something-that-matters/</loc>
-  <lastmod>2011-09-29T18:18:52+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2011-11-17T13:48:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://garethrees.co.uk/2011/09/01/thank-you-for-registering/</loc>
-  <lastmod>2011-09-29T18:18:52+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2011-11-17T13:48:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://garethrees.co.uk/2011/08/16/document-based-file-storage-sucks/</loc>
-  <lastmod>2011-09-29T18:18:52+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2011-11-17T13:48:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://garethrees.co.uk/2011/08/07/without-good-copy-typography-is-useless/</loc>
-  <lastmod>2011-09-29T18:18:52+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2011-11-17T13:48:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://garethrees.co.uk/2011/06/17/freshbooks/</loc>
-  <lastmod>2011-09-29T18:18:52+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2011-11-17T13:48:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://garethrees.co.uk/2011/06/01/how-do-you-deal-with-design-disagreements/</loc>
-  <lastmod>2011-09-29T18:18:52+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2011-11-17T13:48:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>http://garethrees.co.uk/2011/03/01/a-good-vision-is-a-strong-outline-written-in-pencil/</loc>
-  <lastmod>2011-09-29T18:18:52+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2011-11-17T13:48:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 </urlset>
