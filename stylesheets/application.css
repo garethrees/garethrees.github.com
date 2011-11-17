@@ -18,9 +18,9 @@ article > h1:first-of-type {
 #post img,
 figure img,
 img.bordered {
-	-moz-box-shadow:0 0 5px rgba(0,0,0,0.5);
-	-wekbit-box-shadow:0 0 5px rgba(0,0,0,0.5);
-	box-shadow:0 0 5px rgba(0,0,0,0.5);
+	-moz-box-shadow:0 0 5px rgba(0,0,0,0.45);
+	-wekbit-box-shadow:0 0 5px rgba(0,0,0,0.45);
+	box-shadow:0 0 5px rgba(0,0,0,0.45);
 }
 
 /*------------------------------------*\
