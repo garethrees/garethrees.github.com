@@ -148,20 +148,22 @@ img.bordered {
 	PORTFOLIO
 \*------------------------------------*/
 
-#portfolio figure {
-	margin-bottom:3em;
-}
-
-#portfolio h2 {
+#portfolio section > h1 {
 	border-bottom:2px dashed #ddd;
 	font-size:3em;
-	padding-bottom:0.25em;
 }
 
 #portfolio article h1 {
 	margin-top:0;
 }
 
+#portfolio figure {
+	margin-bottom:3em;
+}
+
+#portfolio #work figcaption {
+	text-align:center;
+}
 
 /*------------------------------------*\
 	FOOTER
