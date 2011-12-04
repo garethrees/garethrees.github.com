@@ -153,6 +153,12 @@ img.bordered {
 	font-size:3em;
 }
 
+#portfolio section > h2 {
+	border-bottom:1px dashed #ddd;
+	font-size:1.5em;
+	padding-bottom:0.25em;
+}
+
 #portfolio article h1 {
 	margin-top:0;
 }
