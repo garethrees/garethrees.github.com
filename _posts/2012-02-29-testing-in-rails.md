@@ -37,3 +37,9 @@ Functional testing is performed at the `Controller` level to ensure the incoming
 * [Functional testing in Test:Unit](http://guides.rubyonrails.org/testing.html#functional-tests-for-your-controllers)
 * [Controller testing in Rspec](https://www.relishapp.com/rspec/rspec-rails/docs/controller-specs)
 * [Controller Spec testing in Minitest](http://docs.seattlerb.org/minitest/MiniTest/Spec.html)
+
+### Integration Testing
+
+* [Integration testing in Test:Unit](http://guides.rubyonrails.org/testing.html#integration-testing)
+* [Request Specs in Rspec](https://www.relishapp.com/rspec/rspec-rails/v/2-8/docs/request-specs/request-spec)
+* [Controller Spec testing in Minitest](http://docs.seattlerb.org/minitest/MiniTest/Spec.html)
