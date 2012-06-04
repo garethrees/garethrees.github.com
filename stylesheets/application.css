@@ -127,9 +127,15 @@ img.bordered {
 
 #post blockquote {
 	background:#E1EEEC;
+	border-left: 2px solid #94A7D6;
 	font-size:1.5em;
 	font-weight:bold;
+	padding:0.2em 0.4em 0.2em 1.2em;
 	text-indent:0;
+}
+
+#post blockquote p {
+  margin: 0;
 }
 
 #post .update {
