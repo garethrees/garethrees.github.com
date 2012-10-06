@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Art vs Design
-meta: 
+meta: Design is how it works
 ---
 
 # {{ page.title }}
