@@ -182,4 +182,33 @@ a:focus {
   font-family: monospace;
 }
 
+/* ==========================================================================
+ * Responsive
+ * ==========================================================================*/
 
+@media only screen and (max-width:890px) {
+  #posts .post a {
+    display: block;
+  }
+
+  #posts .posted-on {
+    display: block;
+    float: none;
+    margin: 0;
+    text-align: left;
+    width: auto;
+  }
+}
+
+@media only screen and (max-width:610px) {
+  .wrap {
+    padding: 2%;
+  }
+}
+
+@media only screen and (max-width:450px) {
+  #banner .title,
+  #banner .main-nav {
+    float: none;
+  }
+}
