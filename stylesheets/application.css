@@ -114,8 +114,10 @@ a:focus {
   font-family: monospace;
   font-size: 0.8em;
   font-weight: normal;
-  margin-left: -200px;
+  line-height: 2;
+  margin-left: -240px;
   text-align: right;
+  width: 220px;
 }
 
 /* ==========================================================================
