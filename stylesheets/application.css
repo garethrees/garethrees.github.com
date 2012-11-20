@@ -50,6 +50,10 @@ a:focus {
   text-shadow: none;
 }
 
+li {
+  margin-bottom: 0.4em;
+}
+
 .wrap {
   margin: 0 auto;
   max-width: 600px;
@@ -83,6 +87,7 @@ a:focus {
 
 .main-nav li {
   display: inline-block;
+  margin: 0;
 }
 
 .main-nav a {
