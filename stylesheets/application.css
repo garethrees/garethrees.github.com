@@ -162,6 +162,27 @@ li {
   border: 4px solid #101123;
 }
 
+.post pre {
+  background: #eef;
+  border: 1px solid #ddd;
+/*  font-size: 14px;*/
+  padding: 0.8em;
+  text-shadow: none;
+}
+
+.post code {
+  background: #eef;
+  border: 1px solid #ddd;
+  border-radius: 0.25em;
+  font-size: 85%;
+  padding: 0.2em;
+}
+
+.post pre code {
+  border: none;
+}
+
+
 
 /* ==========================================================================
  * Footer

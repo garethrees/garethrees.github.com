@@ -10,9 +10,11 @@ I use [git](http://git-scm.com) for my source code management and branch regular
 
 It's good to know which branch your on when your performing command line tasks. You can run `git branch`, but that gets tedious.
 
-You can add a function to your `.profile` (or `.bash_profile` etc) to get a promt that looks like:
+You can add a function to your `.profile` (or `.bash_profile` etc) to get a prompt that looks like:
 
-		gareth:garethrees.github.com (master)$ 
+{% highlight bash %}
+gareth:garethrees.github.com (master)$
+{% endhighlight %}
 
 This outputs the current user (denoted by `\u`) followed by the current directory (`\W`) and finally the git branch inside parentheses.
 
