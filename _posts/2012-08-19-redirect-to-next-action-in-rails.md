@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rails – Redirect To Next Action
+title: Redirect To Next Action in Rails
 meta: Redirect to a different next action in Ruby on Rails
 ---
 
