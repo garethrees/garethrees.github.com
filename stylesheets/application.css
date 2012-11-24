@@ -155,9 +155,12 @@ li {
 }
 
 .post img {
+  display: block;
+  margin: 0.8em 0;
   max-width: 100%;
 }
 
+.post img,
 .post figure img {
   border: 4px solid #101123;
 }
