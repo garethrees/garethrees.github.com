@@ -36,6 +36,8 @@ I have several open source projects hosted on [GitHub](http://github.com/garethr
 ### Contributions
 
 - [Added a default option](https://github.com/thoughtbot/paperclip/pull/1061) to Thoughtbot's [paperclip](https://github.com/thoughtbot/paperclip) gem
+- [Contributed](http://contributors.rubyonrails.org/contributors/gareth-rees/commits) to [Rails](http://rubyonrails.org)
 - [Contributor](https://github.com/thoughtbot/trail-map/graphs/contributors) to Thoughtbot's [Trail Map](https://github.com/thoughtbot/trail-map)
 - [Reformatted](https://github.com/thoughtbot/fistface/pull/2) Thoughtbot's [Fist Face](https://github.com/thoughtbot/fistface) gem to use Sinatra's modular extension style
 - [Touched up](https://github.com/ryanb/railscasts/pull/10) the watch button on [Railscasts](http://railscasts.com) <span style="color: #999; font-size: 0.75em; font-style: italic;">(First Pull Request)</span>
+
