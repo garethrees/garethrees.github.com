@@ -60,7 +60,7 @@ Include the custom recipies at the top of `deploy.rb`.
 Dir.glob('config/deploy/recipies/*.rb').each { |recipe| load recipe }
 ```
 
-## Automatically pointing to the current release
+## Automatically Pointing to the Current Release
 
 Each time a branch is deployed, we'll have Capistrano point a symlink to the branch. This will reside in in the top level of the `:deploy_root` directory.
 
@@ -106,7 +106,7 @@ It must be called after `deploy:update` to ensure `current_path` is pointing at 
 
 Each time you deploy, the specified branch will automatically become the live version on the staging server.
 
-## Finding out the current release
+## Finding the Current Release
 
 After using this for a few days, we found ourselves asking _"What branch is deployed on staging?"_. That got annoying pretty fast!
 
@@ -144,7 +144,7 @@ end
 
 Now any member of the team can run `cap utils:revision` to see what's live.
 
-## What about Multistage?
+## What About Multistage?
 
 If you've followed the steps through, you shouldn't have to do any more configuration for multistage. Just specify the stage you want to deploy the branch to.
 
