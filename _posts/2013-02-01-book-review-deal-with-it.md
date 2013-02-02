@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Book Review | Deal With It: Attitude for Coders
-meta: A book review of Deal With It: Attitude for Coders by Gavin Davies
+title: Book Review – Deal With It
+meta: A book review of Deal With It; Attitude for Coders by Gavin Davies
 ---
 
 # {{ page.title }}
