@@ -54,6 +54,10 @@ li {
   margin-bottom: 0.4em;
 }
 
+li p {
+  margin: 0;
+}
+
 .wrap {
   margin: 0 auto;
   max-width: 600px;

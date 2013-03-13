@@ -1,15 +1,19 @@
 ---
 layout: default
-title: Portfolio
+title: Home
 ---
-
-# Portfolio
-
-## Work
 
 I currently work at [Box UK](http://boxuk.com).
 
 I've also worked on applications for [Cardiff University Students' Union](http://cardiffstudents.com), [Cardiff Venue Centre](http://cardiffvenuecentre.com), [Smart Card Store](http://smartcardstore.co.uk), [The Wales Trades Union Congress](http://standupforabetterway.org), [Havering Fabian Society](http://haveringfabians.org.uk) and [Maesycoed Motors](http://maesycoedmotors.co.uk).
+
+## Blog
+
+{% for post in site.posts limit:3 %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+[More &rarr;](/blog)
 
 ## Community
 
