@@ -25,3 +25,5 @@ In my experience…
 - Weekly update is compiled from the week's PDFs.
 
 Happier.
+
+[Discuss on Hacker News](https://news.ycombinator.com/item?id=5465023)

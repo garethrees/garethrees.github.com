@@ -1,7 +1,7 @@
 ---
 layout: post
-title: If you have two banks of desks, you're working remote
-meta: If you have two banks of desks, you're working remote
+title: If you have two banks of desks, you're working remotely
+meta: If you have two banks of desks, you're working remotely
 ---
 
 # {{ page.title }}
@@ -69,3 +69,5 @@ If this technology is required and used anyway, then remote working can be easil
 ---
 
 Assuming a remote workforce solves many problems faced by growing companies. It improves communication all around and gives employees greater freedom, particularly in conjunction with less rigid work hours. If you're trying to solve these problems anyway, there's little to fear about going remote.
+
+[Discuss on Hacker News](https://news.ycombinator.com/item?id=5465019)
