@@ -19,6 +19,8 @@ I've also worked on applications for [Cardiff University Students' Union](http:/
 
 I founded and run [cardiffrb](http://cardiffrb.com), a [monthly](http://lanyrd.com/profile/cardiffrb/future) meet up for Ruby programmers in [Cardiff, UK](http://goo.gl/maps/5VuC8).
 
+I created [Cardiff Collective](http://collective.cardiffstart.com) as a place for entrepreneurs in Cardiff to connect and share knowledge.
+
 I'm working with [Sam Knight](http://samknight.co.uk) to open Welsh politics with [Your Senedd](http://yoursenedd.com).
 
 ## Open Source
