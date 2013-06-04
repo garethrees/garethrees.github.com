@@ -1,5 +1,3 @@
 site: http://garethrees.co.uk
-server: true
-auto: true
 permalink: pretty
 pygments: true
