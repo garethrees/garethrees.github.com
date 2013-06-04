@@ -184,6 +184,10 @@ li p {
   padding: 0.2em;
 }
 
+.post a:hover code {
+  color: #D31F22;
+}
+
 .post pre code {
   border: none;
 }
