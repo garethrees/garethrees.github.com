@@ -42,5 +42,5 @@ Focus on quality over quantity. No one wants to read marketing copy. This comes 
 
 ## Transcript
 
-<script src="//storify.com/boxuk/boxchat-the-content-age.js"></script><noscript>[<a href="//storify.com/boxuk/boxchat-the-content-age" target="_blank">View the story "#boxchat - The Content Age" on Storify</a>]</noscript>
-
+<script src="//storify.com/boxuk/boxchat-the-content-age.js"></script>
+<noscript>[<a href="//storify.com/boxuk/boxchat-the-content-age" target="_blank">View the story "#boxchat - The Content Age" on Storify</a>]</noscript>
