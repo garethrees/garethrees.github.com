@@ -47,4 +47,4 @@ More often than not, when asked when an auther _needed_ their content published 
 Download
 --------
 
-[Downlaod the template](http://garethrees.co.uk/downloads/content-template.pdf) – hope it helps!
+[Download the template](http://garethrees.co.uk/downloads/content-template.pdf) – hope it helps!
