@@ -11,7 +11,7 @@ title: Book Review – The One Minute Manager
 
 [The One Minute Manager](http://www.amazon.co.uk/dp/0007107927) is a _tiny_ (less than 100 pages) little book with just three simple steps to become a great manager. I'm sold.
 
-The book is written as a short story where a young enthusiastic job-seeker looking for a great place to work; more specifically, a great manager to work for.
+The book is written as a short story where a young enthusiastic job-seeker is looking for a great place to work; more specifically, a great manager to work for.
 
 His search brings him to the One Minute Manager. The One Minute Manager agrees to chat with him and shares three secrets of One Minute Management.
 
