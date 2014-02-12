@@ -25,7 +25,7 @@ His search brings him to the One Minute Manager. The One Minute Manager agrees t
 - The goal, and its performance standard, should be no more than 250 words
 - You should be able to read it in one minute
 - Focus on the [key areas](http://en.wikipedia.org/wiki/Pareto_principle) of responsibility – 5 or 6 goals
-- Solve your own problems: A problem only exists if there is a difference between what is _actually_ happening an what you _desire_ to be happening
+- Solve your own problems: A problem only exists if there is a difference between what is _actually_ happening and what you _desire_ to be happening
 - Take a minute every once in a while to review your goals
 
 ## One Minute Prasings
