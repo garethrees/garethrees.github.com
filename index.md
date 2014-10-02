@@ -21,7 +21,7 @@ I founded and run [cardiffrb](http://cardiffrb.com), a [monthly](http://lanyrd.c
 
 I created [Cardiff Collective](http://collective.cardiffstart.com) as a place for entrepreneurs in Cardiff to connect and share knowledge.
 
-I'm working with [Sam Knight](http://samknight.co.uk) to open Welsh politics with [Your Senedd](http://yoursenedd.com).
+I'm working with [Sam Knight](http://samknight.co.uk) to open Welsh politics with [Your Senedd](http://www.yoursenedd.com).
 
 ## Open Source
 
