@@ -39,6 +39,7 @@ I have several open source projects hosted on [GitHub](http://github.com/garethr
 - [**hunter**](http://rubygems.org/gems/hunter): Calculates which email domains your subscribers use
 - [**twalk**](http://rubygems.org/gems/twalk): Twalk displays tweets of your followers who are talking to one another
 - [**ncbi_blast_results_parser**](https://rubygems.org/gems/ncbi_blast_results_parser): Parses HTML 'API' responses from [NCBI Blast](http://blast.ncbi.nlm.nih.gov/Blast.cgi)
+- [More &rarr;](http://rubygems.org/profiles/garethrees) 
 
 ### Contributions
 
