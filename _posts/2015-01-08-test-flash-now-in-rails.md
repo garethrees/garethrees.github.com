@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Testing flash.now in Rails 3.2
+title: Testing flash.keep in Rails 3.2
 ---
 
 # {{ page.title }}
 
-[Mike Naberenzy](http://mikenaberezny.com/2007/09/08/keep-the-flash-and-test-it-too/) once posted about testing `flash.now` in Rails. His method doesn't seem to work
+[Mike Naberenzy](http://mikenaberezny.com/2007/09/08/keep-the-flash-and-test-it-too/) once posted about testing `flash.keep` in Rails. His method doesn't seem to work
 since Rails 2.1.
 
 Here's how I got a passing spec.
