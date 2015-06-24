@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use Parenthesis With defined? Keyword in Ruby
+title: Use Parentheses With defined? Keyword in Ruby
 ---
 
 # {{ page.title }}
@@ -42,7 +42,7 @@ When `x` is a variable, it will return `"local-variable"`.
     x
     => 1
 
-## Use Parenthesis
+## Use Parentheses
 
 In a Rails partial template you might want to check that a local variable has
 been passed to the partial before you try to do something with it. `defined?` is
@@ -62,7 +62,7 @@ expression to test, and since it can execute it, the return value is
 always happen, regardless of whether `follower_count` is `0` or not.
 
 To avoid this issue, ensure the variable (or expression) you're testing is
-wrapped in parenthesis.
+wrapped in parentheses.
 
     <% if defined?(follower_count) && follower_count > 0 %>
       <!-- Do A -->
