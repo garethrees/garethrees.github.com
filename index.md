@@ -25,12 +25,15 @@ I'm working with [Sam Knight](http://samknight.co.uk) to open Welsh politics wit
 
 ## Open Source
 
-I have several open source projects hosted on [GitHub](http://github.com/garethrees).
-
-- [**Git to SVN Guide**](https://github.com/garethrees/git-to-svn-guide): A guide of how to use SVN when you're familiar with [Git](http://git-scm.org)
-- [**Example.html**](http://github.com/garethrees/example.html): A file full of standard HTML5 elements to check your stylesheet doesn’t miss anything out _([Demo](http://garethrees.github.com/example.html))_
-- [**Vanilla CSS**](http://github.com/garethrees/vanillacss): An empty stylesheet containing all the standard HTML tags to build up your default styles after applying a reset
-- [**Anchors**](http://github.com/garethrees/anchors): A collection of link styles and some clever things you can do with the HTML anchor tag _([Demo](http://garethrees.github.com/anchors))_
+- [Contributed](http://contributors.rubyonrails.org/contributors/gareth-rees/commits) code and documentation to [Ruby on Rails](http://rubyonrails.org)
+- [Several contributions](https://github.com/ddollar/github-backup/commits?author=garethrees) to github-backup including [uptdaing to GitHub API v3](https://github.com/ddollar/github-backup/pull/8)
+- [Forked acl_system2](https://github.com/boxuk/acl_system2) to [add Rails 3 compatibility](https://github.com/boxuk/acl_system2/pull/5) and release as a [rubygem](https://rubygems.org/gems/acl_system2)
+- [Fixed bug](https://github.com/heapsource/active_model_otp/pull/27) in ActiveModel::Otp while using ActiveRecord
+- [Added a default option](https://github.com/thoughtbot/paperclip/pull/1061) to Thoughtbot's [paperclip](https://github.com/thoughtbot/paperclip) gem
+- [Contributor](https://github.com/thoughtbot/trail-map/graphs/contributors) to Thoughtbot's [Trail Map](https://github.com/thoughtbot/trail-map)
+- [Reformatted](https://github.com/thoughtbot/fistface/pull/2) Thoughtbot's [Fist Face](https://github.com/thoughtbot/fistface) gem to use Sinatra's modular extension style
+- [Touched up](https://github.com/ryanb/railscasts/pull/10) the watch button on [Railscasts](http://railscasts.com) <span style="color: #999; font-size: 0.75em; font-style: italic;">(First Pull Request)</span>
+- [More &rarr;](https://github.com/garethrees?tab=contributions&period=monthly)
 
 ### Rubygems
 
@@ -41,14 +44,10 @@ I have several open source projects hosted on [GitHub](http://github.com/garethr
 - [**ncbi_blast_results_parser**](https://rubygems.org/gems/ncbi_blast_results_parser): Parses HTML 'API' responses from [NCBI Blast](http://blast.ncbi.nlm.nih.gov/Blast.cgi)
 - [More &rarr;](http://rubygems.org/profiles/garethrees) 
 
-### Contributions
+### Other
 
-- [Contributed](http://contributors.rubyonrails.org/contributors/gareth-rees/commits) code and documentation to [Ruby on Rails](http://rubyonrails.org)
-- [Several contributions](https://github.com/ddollar/github-backup/commits?author=garethrees) to github-backup including [uptdaing to GitHub API v3](https://github.com/ddollar/github-backup/pull/8)
-- [Forked acl_system2](https://github.com/boxuk/acl_system2) to [add Rails 3 compatibility](https://github.com/boxuk/acl_system2/pull/5) and release as a [rubygem](https://rubygems.org/gems/acl_system2)
-- [Fixed bug](https://github.com/heapsource/active_model_otp/pull/27) in ActiveModel::Otp while using ActiveRecord
-- [Added a default option](https://github.com/thoughtbot/paperclip/pull/1061) to Thoughtbot's [paperclip](https://github.com/thoughtbot/paperclip) gem
-- [Contributor](https://github.com/thoughtbot/trail-map/graphs/contributors) to Thoughtbot's [Trail Map](https://github.com/thoughtbot/trail-map)
-- [Reformatted](https://github.com/thoughtbot/fistface/pull/2) Thoughtbot's [Fist Face](https://github.com/thoughtbot/fistface) gem to use Sinatra's modular extension style
-- [Touched up](https://github.com/ryanb/railscasts/pull/10) the watch button on [Railscasts](http://railscasts.com) <span style="color: #999; font-size: 0.75em; font-style: italic;">(First Pull Request)</span>
-- [More &rarr;](https://github.com/garethrees?tab=contributions&period=monthly) 
+- [**Git to SVN Guide**](https://github.com/garethrees/git-to-svn-guide): A guide of how to use SVN when you're familiar with [Git](http://git-scm.org)
+- [**Example.html**](http://github.com/garethrees/example.html): A file full of standard HTML5 elements to check your stylesheet doesn’t miss anything out _([Demo](http://garethrees.github.com/example.html))_
+- [**Vanilla CSS**](http://github.com/garethrees/vanillacss): An empty stylesheet containing all the standard HTML tags to build up your default styles after applying a reset
+- [**Anchors**](http://github.com/garethrees/anchors): A collection of link styles and some clever things you can do with the HTML anchor tag _([Demo](http://garethrees.github.com/anchors))_
+
