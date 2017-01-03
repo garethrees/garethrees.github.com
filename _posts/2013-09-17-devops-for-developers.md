@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DevOps for Developers
+title: Book Notes – DevOps for Developers
 meta: Notes from reading DevOps for Developers
 ---
 
