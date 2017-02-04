@@ -28,7 +28,7 @@ I'm working with [Sam Knight](http://samknight.co.uk) to open Welsh politics wit
 - [Contributed](http://contributors.rubyonrails.org/contributors/gareth-rees/commits) code and documentation to [Ruby on Rails](http://rubyonrails.org)
 - [Several contributions](https://github.com/ddollar/github-backup/commits?author=garethrees) to github-backup including [uptdaing to GitHub API v3](https://github.com/ddollar/github-backup/pull/8)
 - [Forked acl_system2](https://github.com/boxuk/acl_system2) to [add Rails 3 compatibility](https://github.com/boxuk/acl_system2/pull/5) and release as a [rubygem](https://rubygems.org/gems/acl_system2)
-- [Fixed bug](https://github.com/heapsource/active_model_otp/pull/27) in ActiveModel::Otp while using ActiveRecord
+- [Fixed bug](https://github.com/heapsource/active_model_otp/pull/27) in `ActiveModel::Otp` while using ActiveRecord
 - [Added a default option](https://github.com/thoughtbot/paperclip/pull/1061) to Thoughtbot's [paperclip](https://github.com/thoughtbot/paperclip) gem
 - [Contributor](https://github.com/thoughtbot/trail-map/graphs/contributors) to Thoughtbot's [Trail Map](https://github.com/thoughtbot/trail-map)
 - [Reformatted](https://github.com/thoughtbot/fistface/pull/2) Thoughtbot's [Fist Face](https://github.com/thoughtbot/fistface) gem to use Sinatra's modular extension style
