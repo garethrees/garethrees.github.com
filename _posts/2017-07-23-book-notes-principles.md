@@ -234,7 +234,8 @@ You need to know whether you (and others) are following the plan, so you should 
 
 **Weaknesses Don’t Matter if You Find Solutions**
 
-* Life is like a game where you seek to overcome the obstacles that stand in the way of achieving your goals. * You get better at this game through practice.
+* Life is like a game where you seek to overcome the obstacles that stand in the way of achieving your goals.
+* You get better at this game through practice.
 * The game consists of a series of choices that have consequences.
 * You can’t stop the problems and choices from coming at you, so it’s better to learn how to deal with them.
 * You have the freedom to make whatever choices you want, though it’s best to be mindful of their consequences.
