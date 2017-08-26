@@ -43,17 +43,13 @@ Much of our everyday knowledge resides in the world, not in the head. We infer m
 
 ## Chapter 1: The Psychology of Everyday Things
 
-Why do we put up with the frustrations of everyday objects? _Good question; probably because people don't perceive there's a better way._
+Why do we put up with the frustrations of everyday objects? _Probably because people don't perceive there's a better way._
 
 Well-designed objects are easy to interpret and understand. They contain visible clues to their operation. Poorly designed things provide limited clues, or sometimes false clues.
 
 There's paragraph where Norman talks about problems with doors. This could well be intentional though, to slow people down before they push open a door in to someone on the other side.
 
-**Visibility:** The correct parts must be visible, and they must convey the correct message.
-
-**Natural signals:** design elements naturally interpreted without any need to be conscious of them. The use of _natural signals_ is called **natural design**.
-
-**Mappings:** what you want to do vs what appears to be possible. One button to do two things? What is the mapping? How is a first-time user to know?
+<dfn id="def-natural-signals">Natural signals</dfn>: design elements naturally interpreted without any need to be conscious of them. The use of _natural signals_ is called <dfn id="def-natural-design">natural design</dfn>.
 
 Problems with the new telephone system example:
 
@@ -63,53 +59,49 @@ Problems with the new telephone system example:
 - Arbitrary actions (poor _affordances_)
 - No visible outcome of the operation (_feedback_)
 
-**Visibility:** indicates the mapping between intended actions and actual operations. Lack of visibility makes many computer-controlled devices difficult to operate. Excess of visibility can also make devices intimidating.
-
 ### Affordances
 
-_Affordances_ refers to the perceived and actual properties of how the thing could possibly used (e.g. a chair "affords" sitting).
+<dfn id="def-affordances">Affordances</dfn> are the perceived and actual properties of how the thing could possibly used (e.g. a chair "affords" sitting).
 
 The user knows what to do just by looking – no picture, label, or instruction is required.
 
 When simple things need pictures, labels, or instructions, the design has failed. – _what is "simple" though?_
 
-**Causality:** cause/effect - Something that happens right after an action appears to be caused by that action.
+<dfn id="def-causality">Causality</dfn>: cause/effect - Something that happens right after an action appears to be caused by that action.
 
 ### Conceptual Models
 
-You form a conceptual model of a device and mentally simulate its operation. You can do the simulation because the parts are visible and the implications clear.
+<dfn id="def-conceptual-model">Conceptual model</dfn>: a mental simulation of how to operate a device, based on your _perception_ of how it should be operated.
 
-Other clues come from affordances, constraints and mappings.
+Clues come from affordances, constraints and mappings. All together form a conceptual model.
 
-**Scissors example:**
+Scissors example:
 
-- **Affordance:** finger holes
-- **Constraint:** size of holes
-- **Mapping:** fingers go in holes and operate the blades
-
-All together form a conceptual model.
+- Affordance: fingers go in finger holes
+- Constraint: size of holes is similar to size of fingers
+- Mapping: fingers go in holes and operate the blades
 
 **The fundamental principles of designing for people:** good conceptual model + make things visible.
 
-A good conceptual model allows us to predict the effects of our actions.
-
-Without, we can't fully appreciate why, what effects to expect, or what to do if things go wrong.
+A good conceptual model allows us to predict the effects of our actions. Without, we can't fully appreciate why a thing works, what effects to expect, or what to do if things go wrong.
 
 For everyday things, conceptual models don't need to be very complex. No need to understand the underlying physics or chemistry – just the relationship between controls and the outcomes.
 
-- **Design Model:** The designer's conceptual model.
-- **User's Model:** Mental model developed through interaction with the system.
-- **System Image:** Physical structure of the object (including documentation, instructions and labels). The visible part of a device.
+- <dfn id="def-design-model">Design Model</dfn>: The designer's conceptual model.
+- <dfn id="def-users-model">User's Model:</dfn> Mental model developed through interaction with the system.
+- <dfn id="def-system-image">System Image:</dfn> Physical structure of the object (including documentation, instructions and labels). The visible part of a device.
 
 All communication takes place through the _system image_.
 
 Designers might try to simplify the conceptual model with the intention of making the item easier to understand, but with the wrong conceptual model, it can be impossible to operate the item correctly (fridge/freezer example).
 
-**Mental Model:** The models people have of themsleves, others, the environment, and the things with which they interact. People form mental models through _experience_, _training_ and _instruction_. The mental model of a device is formed largely by _interpreting_ the perceived actions and its visible structure.
+<dfn id="def-mental-model">Mental Model</dfn>: The models people have of themsleves, others, the environment, and the things with which they interact. People form mental models through _experience_, _training_ and _instruction_. The mental model of a device is formed largely by _interpreting_ the perceived actions and its visible structure.
 
 When the system image is incoherent or inappropriate the user cannot easily use the device.
 
 ### Make Things Visible
+
+<dfn id="def-visibility">Visibility</dfn>: The mapping between intended actions and actual operations. Lack of visibility makes many computer-controlled devices difficult to operate. Excess of visibility can also make devices intimidating.
 
 Car vs Phone example.
 
@@ -141,9 +133,9 @@ The good relationship between the placement of the control and what it does make
 
 ### The Principle of Mapping
 
-**Mapping:** The relationship between two things.
+<dfn id="def-mapping">Mapping</dfn>: The relationship between two things. What you want to do vs what appears to be possible. One button to do two things? What is the mapping? How is a first-time user to know?
 
-**Natural Mapping:** Taking advantage of physical analogies and cultural standards, leading to immediate understanding.
+<dfn id="def-natural-mapping">Natural Mapping</dfn>: Taking advantage of physical analogies and cultural standards, leading to immediate understanding.
   - Spacial: Move control up to go up
   - Cultural: Rising level = more
   - Biological: Loudness; brightness
