@@ -147,8 +147,20 @@ Mapping problems are one of the fundamental causes of difficulties.
 
 A device is easy to use when there is _visibility_ to the set of possible actions, where the controls and displays exploit _natural mappings_.
 
+### The Principle of Feedback
 
+<dfn id="def-feedback">Feedback</dfn>: Sending back to the user information about what action has been done, and what result has been accomplished.
 
+* <dfn id="def-tactile-feedback">Tactile Feedback</dfn>: the _feel_ of an interface.
+* <dfn id="def-auditory-feedback">Auditory Feedback</dfn>: using sound – e.g. an alarm or the _sidetone_ in telephones for the user to regulate how loud they speak
+
+### The Paradox of Technology
+
+<dfn id="def-paradox-of-technology">The paradox of technology</dfn>: added functionality generally comes with the price of added complexity.
+
+Technology development follows a U-shaped curve of complexity (High → Low → High). See the three stages of life in [Selling the Invisible](/2017/01/03/book-notes-selling-the-invisible/).
+
+Whenever the number of functions exceeds the number of controls, the design becomes arbitrary, unnatural and complicated.
 
 
 
