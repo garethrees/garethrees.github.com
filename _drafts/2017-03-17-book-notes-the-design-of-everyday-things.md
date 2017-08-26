@@ -28,8 +28,6 @@ Most of the important ideas seem reasonably relavent today though.
     - Good design is an act of communication between designer and and user.
     - Conceptual models are how a user maps the interface of the tool to how they understand it should be used.
     - The device must explain itself.
-    - Controls also require a conceptual model – obvious relationshop between location and operation they control (a _natural mapping_).
-    - When designers fail to provide a conceptual model the user is forced to make up their own (often wrong).
   - **Feedback:** Always important to show the effect of an action.
   - **Constraints:**
     - Make something easy to use by making it impossible to do otherwise.
@@ -39,7 +37,7 @@ Most of the important ideas seem reasonably relavent today though.
 
 Appropriate, human-centred design requires that all the considerations be addressed from the very beginning.
 
-Technology changes rapidly; people change slowly.
+Technology changes rapidly; **people change slowly**.
 
 Much of our everyday knowledge resides in the world, not in the head. We infer meaning from the information available.
 
