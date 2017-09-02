@@ -88,8 +88,8 @@ A good conceptual model allows us to predict the effects of our actions. Without
 For everyday things, conceptual models don't need to be very complex. No need to understand the underlying physics or chemistry – just the relationship between controls and the outcomes.
 
 - <dfn id="def-design-model">Design Model</dfn>: The designer's conceptual model.
-- <dfn id="def-users-model">User's Model:</dfn> Mental model developed through interaction with the system.
-- <dfn id="def-system-image">System Image:</dfn> Physical structure of the object (including documentation, instructions and labels). The visible part of a device.
+- <dfn id="def-users-model">User's Model</dfn>: Mental model developed through interaction with the system.
+- <dfn id="def-system-image">System Image</dfn>: Physical structure of the object (including documentation, instructions and labels). The visible part of a device.
 
 All communication takes place through the _system image_.
 
@@ -162,5 +162,93 @@ Technology development follows a U-shaped curve of complexity (High → Low → 
 
 Whenever the number of functions exceeds the number of controls, the design becomes arbitrary, unnatural and complicated.
 
+## Chapter 2: The Psychology of Everyday Actions
+
+### Falsely Blaming Yourself
+
+People often blame themselves if they make an error in a task that _seems_ easy.
+
+When a system is poorly designed (e.g. makes use of arbitrary actions) and a user makes a mistake, they perceive it to be their fault, rather than a fault of the design.
+
+Designers should make errors as cost-free as possible.
+
+* Assume all errors _will_ occur
+* Minimise the chance of each error
+* Minimise the cost of an error
+* Errors should be easy to detect
+* Effects should be reversible if possible
+
+### People as Explanatory Creatures
+
+We base our conceptual and mental models on whatever knowledge we have; real or imaginary; naive or sophisticated.
+
+Mental models are often constructed from fragmentary evidence but with a poor understanding of what is happening, and with a kind of naive psychology that postulates causes, mechanisms and relationships even where there are none.
+
+Everyone forms theories (mental models) to explain what they have observed. In the absence of external information, people are free to let their imaginations run free as long as the mental models they develop account for the facts as they perceive them.
+
+### Blaming the Wrong Cause
+
+People tend to assign a _causal relation_ whenever two things occur in succession.
+
+<dfn id="def-causal-relationship">Causal relationship</dfn>: The relationship between an action causing a result.
+
+<dfn id="def-attribution">Attribution (Blame)</dfn>: A _perceived_ causal relationship between the thing being blamed and a result.
+
+The word _perceived_ is critical: The causal relationship may not have to _actually exist_; just that the person _thinks_ it exists. Blame or credit can be assessed almost independently of reality when there is poor design in a system.
+
+### Learned & Taught Helplessness
+
+<dfn id="def-learned-helplessness">Learned Helplessness</dfn>: When people fail at a task (often repeatedly) and as a result, conclude that the task cannot be done by them.
+
+<dfn id="def-taught-helplessness">Taught Helplessness</dfn>: When complexity keeps increasing and is assumed that a user knows the conventions of what came before. Once you fall behind it is hard to catch up.
+
+### The Nature of Human Thought and Explanation
+
+How do highly skilled, trained people make mistakes?
+
+Sometimes the design of the Thing is poor (e.g. "The light didn't monitor the valve, only the electrical signal to the valve"). In this case a problem was past experience with a leaky valve, so it was easy to ignore a genuine problem.
+
+Sometimes whole system failures go unnoticed until a big problem happens (e.g. change of procurement missed o-rings).
+
+### The Seven Stages of Action
+
+* Start with a goal of what you want to get done
+* Then do something to the world
+* Finally, you check to see that your goal was achieved
 
 
+<dfn id="def-execution">Execution</dfn>: Doing something to achieve a goal
+
+<dfn id="def-evaluation">Evaluation</dfn>: Checking that what you did achieved your goal
+
+<dfn id="def-goal">Goal</dfn>: Something to be achieved. Goals may be imprecisely specified.
+
+<dfn id="def-intention">Intention</dfn>: A specific action taken to get to the goal.
+
+<dfn id="def-action-sequence">Action Sequence</dfn>: The physical actions that need to be performed to fulfil the intention.
+
+Note that goals may be satisfied by any number of intentions or action sequences.
+
+* **Goal**
+* **Execution:**
+  * Intention to act
+  * Sequence of actions
+  * Execution of the action sequence
+* **Evaluation:**
+  * Perceiving the state of the world
+  * Interpreting the perception
+  * Evaluation of interpretations
+
+The stages are not discrete entities – most behaviour does not require going through all stages in sequence, and most goals will not be satisfied by single actions.
+
+For many everyday tasks, goals and intentions are not well specified.
+
+<dfn id="def-opportunistic-actions">Opportunistic Actions</dfn>: Where behaviour takes advantage of the circumstances. Less precise and certain than specified goals and intentions, but result in less mental effort.
+
+<dfn id="def-gulf-of-execution">The Gulf of Execution</dfn>: The difference between the intentions and the allowable actions.
+
+<dfn id="def-gulf-of-evaluation">The Gulf of Evaluation</dfn>: The effort required to interpret the sate of the system and to determine how well the intentions have been met.
+
+The seven-stage structure can be a valuable design aid as it provides a basic checklist of questions to ask to ensure that the Gulfs of Execution and Evaluation are bridged.
+
+**Good Design**: Visibility, a good Conceptual Model, good Mappings and Feedback
