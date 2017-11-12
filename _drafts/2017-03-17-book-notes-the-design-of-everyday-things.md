@@ -41,6 +41,8 @@ Technology changes rapidly; **people change slowly**.
 
 Much of our everyday knowledge resides in the world, not in the head. We infer meaning from the information available.
 
+Usability is not often thought about during the purchasing process – often the purchaser is not even the end user.
+
 ## Chapter 1: The Psychology of Everyday Things
 
 Why do we put up with the frustrations of everyday objects? _Probably because people don't perceive there's a better way._
@@ -147,6 +149,8 @@ Mapping problems are one of the fundamental causes of difficulties.
 
 A device is easy to use when there is _visibility_ to the set of possible actions, where the controls and displays exploit _natural mappings_.
 
+**If a design depends on labels, it may be faulty**. Natural mappings reduce memory burden, and therefore the need for labels. Aim for the design to carry all the information required.
+
 ### The Principle of Feedback
 
 <dfn id="def-feedback">Feedback</dfn>: Sending back to the user information about what action has been done, and what result has been accomplished.
@@ -252,3 +256,230 @@ For many everyday tasks, goals and intentions are not well specified.
 The seven-stage structure can be a valuable design aid as it provides a basic checklist of questions to ask to ensure that the Gulfs of Execution and Evaluation are bridged.
 
 **Good Design**: Visibility, a good Conceptual Model, good Mappings and Feedback
+
+## Chapter 3: Knowledge in the Head and in the World
+
+Not all knowledge required for precise behaviour has to be in the head.
+
+Precise behaviour can emerge from imprecise knowledge for for reasons:
+
+* <dfn id="def-information-in-the-world">Information is in the world</dfn>: e.g. a "pull" sign on a door. Behaviour is determined by combining information in memory with that in the world.
+* <dfn id="def-precision-not-required">Great precision is not required</dfn>: "Good enough" is often perfectly acceptable.
+* <dfn id="def-natural-constraints">Natural constraints are present</dfn>: The world restricts the allowed behaviour.
+* <dfn id="def-cultural-constraints">Cultural constraints are present</dfn>: Artificial conventions that govern acceptable social behaviour.
+
+<dfn id="def-constraint">Constraints</dfn>: Natural and artificial constraints reduce the alternatives when choosing a sequence of actions.
+
+Behaviour is determined by the combination of internal knowledge and external information and constraints.
+
+Gaining the advantages of knowledge in the world means losing the advantages of knowledge in the head.
+
+### Information is in the World
+
+Whenever information needed to do a task is readily available in the world, the need for us to learn it diminishes. <em>– Help users by putting knowledge in "the world".</em>
+
+There is a tradeoff between speed and quality of performance and mental effort.
+
+<dfn id="def-knowledge-of">Knowledge of</dfn>: declarative knowledge; facts and rules; easy to write down and teach.
+
+<dfn id="def-knowledge-how">Knowledge how</dfn>: procedural knowledge; largely subconscious; difficult to write down and teach; best taught through demonstration and learned through practice.
+
+Knowledge in the world is available only if you are not somewhere else, or if the world has changed, the knowledge is gone.
+
+### Great Precision is Not Required
+
+Normally people do not need precise memory information. We store only partial descriptions of the things to be remembered – e.g. we can distinguish coins but not the details of the faces.
+
+Descriptions need discriminate only among the choices in front of me, but what works for one purpose may not for another.
+
+### The Power of Constraints
+
+In the poem example, as long as the constraints are known, the choice of word can be completely determined. <em>– the illusion of choice.</em>
+
+Constraints reduce the amount that must be learned to a reasonable quantity.
+
+### The Structure of Memory
+
+Retrieval of the past differs from the retrieval of the just present.
+
+<dfn id="def-short-term-memory">Short Term Memory</dfn> (<abbr title="Short Term Memory">STM</abbr>): low capacity (5 +/- 2); fast retrieval; fragile; Increase capacity by chunking.
+
+<dfn id="def-long-term-memory">Long Term Memory</dfn> (<abbr title="Long Term Memory">LTM</abbr>): high capacity; slow retrieval.
+
+<dfn id="def-memory-for-arbitrary-things">Memory for arbitrary things</dfn>: Simple remembering of what is to be done without reliance on why or internal structure. Don't know what to do when something goes wrong (unless solution memorised). Difficult to learn; fast recall; poor debugging.
+
+<dfn id="def-memory-for-meaningful-relationships">Memory for meaningful relationships</dfn>: remembered by meaningful relationships of things already known. Easier to remember, even if you don't understand.
+
+<dfn id="def-memory-through-explanation">Memory through explanation</dfn>: Material is not remembered; derived from _understanding_. Not ideal for tasks that need to be done rapidly or smoothly. Can derive appropriate behaviour for new situations.
+
+### Reminding
+
+* <dfn id="def-rehearsal">Rehearsal</dfn>: Count on it coming to mind because the thing is important enough.
+* Transfer the burden to the outside world.
+* Put the burden on the thing itself.
+
+Two aspects to a reminder – a good reminder has both:
+
+1. <dfn id="def-reminder-signal">Signal</dfn>: An alert that there is something that should be remembered.
+2. <dfn id="def-reminder-message">Message</dfn>: The message of what is to be remembered.
+
+## Chapter 4: Knowing What to Do
+
+The difficulty of dealing with novel situations is directly related to the number of possibilities.
+
+Information in the head: either we heave dealt with something similar in the past and transfer old knowledge to the new object, or we obtain instruction.
+
+Information in the world: use information in the world if the design has presented us with information that can be interpreted.
+
+_Natural constraints_ and _affordances_ lets a user determine the proper course of action, even in novel situations.
+
+### Constraints
+
+<dfn id="def-physical-constraints">Physical Constraints</dfn>: rely on properties of the physical world; no special training necessary. Desired actions can be made obvious. More useful if they are easy to see and interpret, otherwise they prevent the wrong action from succeeding only after it has been tried.
+
+<dfn id="semantic-constraints">Semantic Constraints</dfn>: rely on the meaning of the situation to control the possible actions. Use our knowledge of the situation and the world,
+
+<dfn id="def-cultural-constraints">Cultural Constraints</dfn>: rely on accepted cultural conventions. Each culture has a set of of allowable actions for social situations. Guidelines for cultural behaviour are represented in the mind by <dfn id="def-cultural-constraints-schemas">schemas</dfn> – knowledge structures that contain the general rules and information necessary for interpreting situations and for guiding behaviour.
+
+<dfn id="def-logical-constraints">Logical Constraints</dfn>: Logical relationship between spatial or functional layout of components and the things that they affect or are affected by.
+
+### Controls
+
+<dfn id="def-grouping-problem">Grouping Problem</dfn>: How to determine which control goes with which function.
+
+**Controls that cause trouble should not be located where they can be operated by accident.**
+
+Set the controls for one set of functions apart from the controls that control other functions.
+
+Can also use different types of switches – ideally by <dfn id="def-shape-coding">shape coding</dfn>: make the switch look like the thing that is being controlled.
+
+<dfn id="def-mapping-problem">Mapping Problem</dfn>: How to determine which control affects which thing to be controlled.
+
+Arrange controls in a similar way to the things that they are controlling (e.g. cooker knobs).
+
+### Feedback
+
+* Decide which parts signify the state of the object.
+* What things change?
+* What changed since the previous state?
+* Where should we be watching or listening to to determine any change?
+
+**The important things to watch should be visible and clearly marked.**
+
+#### Sound for Visibility
+
+> Real, natural sound is as essential as visual information because **sound tells us about things we can't see**.
+
+Sound can confirm you've interacted with a control, or that a thing is operating as expected – or indeed, that something is wrong.
+
+Sound can also be annoying and distracting – careful use necessary.
+
+Difficult to keep private.
+
+## Chapter 5: To Err is to Human
+
+People make errors routinely.
+
+Two fundamental categories:
+
+1. <dfn id="def-slips">Slips</dfn>: Incorrect performance of an action intended to satisfy a goal.
+2. <dfn id="def-mistakes">Mistakes</dfn>: An incorrect intention or action sequence for the intended goal.
+
+Sometimes we generalise too rapidly, classifying a new situation as similar to an old one when there are significant discrepancies.
+
+People can consciously attend to only one primary thing at a time. We can do more than one thing at a time only if most of the actions are done automatically, subconsciously or with little or no need for conscious attention.
+
+### Types of Slips
+
+<dfn id="def-capture-error">Capture Error</dfn>: When a frequently done activity suddenly takes charge instead of the one intended.
+
+<dfn id="def-description-error">Description Error</dfn>: Performing the correct action on the wrong object. Occur most frequently when the wrong and right objects are physically near each other.
+
+<dfn id="def-data-driven-error">Data-driven Error</dfn>: Automatic actions triggered by the arrival of sensory data. Can sometimes intrude in to an ongoing action sequence causing behaviour that was not intended.
+
+<dfn id="def-associative-activation-error">Associative Activation Error</dfn>: Actions mistakenly triggered by internal thoughts and associations.
+
+<dfn id="def-loss-of-activation-error">Loss-of-activation Error</dfn>: Simply forgetting to do something. The intent was there, but the activation never happened.
+
+<dfn id="def-mode-error">Mode Error</dfn>: When devices have different modes of operation, and the action appropriate for one mode has different meanings in other modes. Especially likely when the equipment does not make the mode visible.
+
+Slips are relatively _easy to detect_ because there is a clear _discrepancy between goal and result_, but can only take place if there is _feedback_.
+
+### Design Lessons from the Study of Slips
+
+Actions can be specified at many different levels
+
+1. <dfn id="def-high-level-specification">High-level specification</dfn>: The most global description.
+2. <dfn id="def-low-level-specification">Low-level specification</dfn>: The sub-actions that make up the high-level specification.
+
+Problems of level commonly thwart the correction of error.
+
+Error correction seems to start at the lowest possible level and slowly works its way higher.
+
+**Prevent slips before they occur**
+**Detect and correct when they do occur**
+
+When you build an error-tolerant mechanism, people come to rely on it, so it must be reliable.
+
+Often people tend to rely on remembered experiences rather than more systematic analysis.
+
+### Some Models of Human Thought
+
+Even though people always make mistakes, we still believe that thought is rational, logical and orderly. Much of _law_ is based on the concept of rational thought and behaviour.
+
+Much of problem solving and decision making is about remembering previous experience that can serve as a guide to the present.
+
+### The Structure of Tasks
+
+<dfn id="def-wide-and-deep-tasks">Wide and Deep Structures</dfn>: Characterised by a vast, spreading network of possibilities; the number of choices increases exponentially.
+
+<dfn id="def-shallow-tasks">Shallow Structures</dfn>: Many alternative actions, but each is simple; few decisions to make after the single top-level action.
+
+<dfn id="def-narrow-tasks">Narrow Structures</dfn>: Only a small number of alternatives; any task that involves a sequence of activities where the action to be done at any point is determined by its place in the sequence is a narrow structure.
+
+### Explaining Away Errors
+
+Mistakes can take a very long time to be discovered. It is a lot easier to determine what is obvious after it has happened.
+
+### Designing for Error
+
+Error is often thought of as something to be avoided or something done by unskilled or unmotivated people, but everyone makes errors. Designers make the mistake of not taking error in to account.
+
+1. Understand the causes of error and **design to minimise those causes**.
+2. **Make it possible to reverse actions** – to undo them – or make it **harder to do what cannot be reversed**.
+3. Make it **easier to discover the errors** that do occur, and make them **easier to correct**.
+4. **Change the attitude toward errors**. Think of an object's user as attempting to do a task, getting there by imperfect approximations. Don't think od the user as making errors; **think of the actions as approximations of what is desired**.
+
+Normal behaviour isn't always accurate.
+
+### How to Deal with Errors.
+
+Warning signals are usually not the answer. Most are ignored because they tell the operator something that is already known. When a real emergency happens, all the warning signals go off at once. Each competes with each other to be heard, preventing the person from concentrating on the problem.
+
+Built in warning features are bypassed for several reasons:
+
+* they can go off in error, interrupting normal behaviour
+* they often conflict, and become distracting enough to hamper performance
+* they are often inconvenient
+
+Warnings and safety signals must be used with care and intelligence, taking in to account the tradeoffs for the people affected.
+
+<dfn id="def-forcing-functions">Forcing Functions</dfn>: a form of physical constraint to prevent the next action if the previous action fails.
+
+<dfn id="def-interlock">Interlock</dfn>: forces operations to take place in proper sequence.
+
+<dfn id="def-lockin">Lockin</dfn>: keeps an operation active, preventing someone from prematurely stopping it.
+
+<dfn id="def-lockout">Lockout</dfn>: prevents an event from occurring.
+
+Must consider whether the cost will result in people disabling the forcing function.
+
+Forcing functions are almost always a nuisance in normal usage. The designer must minimuse the nuisance value while retaining the safety, forcing function mechanism to guard against the occasional tragedy.
+
+### A Design Philosophy
+
+The designer shouldn't think of a simple dichotomy between errors and correct behaviour; rather, the entire interaction should be treated as a cooperative endeavour between person and machine, one in which misconceptions can arise on either side.
+
+* Put the desired knowledge in the world
+* Use the power of natural and artificial constraints
+* Narrow the gulfs of execution and evaluation
