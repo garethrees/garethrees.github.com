@@ -483,3 +483,27 @@ The designer shouldn't think of a simple dichotomy between errors and correct be
 * Put the desired knowledge in the world
 * Use the power of natural and artificial constraints
 * Narrow the gulfs of execution and evaluation
+
+## Chapter 6: The Design Challenge
+
+Much good design evolves. The design is tested, problem areas are discovered and modified, and then it is continually retested and remodified until time, energy and resources run out.
+
+The severe constraints of existing practice prevent change, even where the change would be an improvement.
+
+Once a satisfactory product has been achieved, further change may be counterproductive, especially if the product is successful. You have to know when to stop.
+
+### Why Designers Go Astray
+
+* The reward structure of the design community tends to put aesthetics first.
+* Designers are not typical users; they become so expert in using the object that they cannot believe that anyone else might have problems.
+* They must please their clients, and the clients may not be the users.
+
+A major part of the design process ought to be the study of just how the objects being designed are to be used.
+
+Designers often become expert with the _device_ they are designing. Users are often expert at the _task_ they are trying to perform with the device.
+
+### The Complexity of the Design Process
+
+> Design is the successive application of constraints until only a unique product is left.
+
+
