@@ -5,18 +5,7 @@ title: Book Notes – The Design of Everyday Things
 
 # {{ page.title }}
 
-<!--
-Some in-progress notes of [Community Building on The Web](http://amzn.eu/bLMM60u).
-
-Seems really good so far, if you keep the following in mind:
-
-- Some of the terminology is old, like "cyberspace" and "hubbub"
-- Tool examples are outdated
-
-Most of the important ideas seem reasonably relavent today though.
-
-![Book cover of Community Building on The Web](/images/posts/community-building-on-the-web.jpg)
--->
+![Book cover of Community Building on The Web](/images/posts/the-design-of-everyday-things.jpg)
 
 ## Preface
 
@@ -507,3 +496,52 @@ Designers often become expert with the _device_ they are designing. Users are of
 > Design is the successive application of constraints until only a unique product is left.
 
 
+What obligation does the designer have to consider varied and obscure uses?
+
+### Selective Attention: The Problem of Focus
+
+<dfn id="def-selective-attention">Selective Attention</dfn>: The ability of conscious attention is limited: focus on one thing and you reduce your attention to others.
+
+> If you can't put the knowledge on the device, then develop a cultural constraint: Standardise what has to be kept in the head.
+
+### Creeping Featurism
+
+AKA: Feature Creep
+
+Double the number of features – quadruple the complexity.
+
+There are two paths to treating featurism:
+
+* **Avoidance:** don't add it
+* **Organisation:** Organise and modularise.
+
+Even if each component has been designed with care, the interaction between components causes problems.
+
+### Explorable Systems: Inviting Experimentation
+
+One important method of making systems easier to learn and to use is to make them explorable, to encourage the user to experiment and learn the possibilities through active exploration.
+
+* In each state of the system the user must readily see and be able to do the allowable actions.
+* The effect of each action must be both visible and easy to interpret.
+* Actions should be without cost and should be easily reversible.
+
+## Chapter 7: User Centred Design
+
+Design should:
+
+* Make it easy to determine what actions are possible at any moment (make use of constraints).
+* Make things visible, including the conceptual model of the system, the alternative actions, and the results of actions.
+* Make it easy to evaluate the current state of the system.
+* Follow natural mappings between intentons and the required actions; between actions and the resulting effect; and between the information that is visible and the interpretation of the system state.
+
+In other words, make sure that (1) the user can figure out what to do and (2) the user can tell what is going on.
+
+### Seven Principles for Transforming Difficult Tasks into Simple Ones
+
+1. Use both knowledge in the world and knowledge in the head.
+2. Simplify the structure of tasks.
+3. Make things visible: bridge the gulfs of Execution and Evaluation.
+4. Get the mappings right.
+5. Exploit the power of constraints, both natural and artificial.
+6. Design for error.
+7. When all else fails, standardise.
