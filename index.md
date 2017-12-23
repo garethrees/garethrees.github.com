@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-I currently work at [mySociety](http://www.mysociety.org).
+I currently work at [mySociety](http://www.mysociety.org) building [Freedom of Information](https://www.mysociety.org/freedom-of-information/) tools installed in over 25 countries worldwide.
 
 In 2017 I was a member of the Welsh Assembly's [Digital News and Engagement Taskforce](http://www.assembly.wales/en/abthome/about_us-commission_assembly_administration/Pages/Digital-News-and-Information-Taskforce.aspx). The objective of the Taskforce was to explore and [recommend](http://www.assembly.wales/SiteCollectionDocuments/Taskforce-Report-web-E.pdf) the most effective ways to increase levels of public understanding and engagement with audiences currently disengaged with politics and Welsh affairs.
 
