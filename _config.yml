@@ -1,3 +1,5 @@
 site: http://www.garethrees.co.uk
 permalink: pretty
 highlighter: rouge
+plugins:
+  - jekyll-sitemap
