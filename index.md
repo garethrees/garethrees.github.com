@@ -7,8 +7,6 @@ I currently work at [mySociety](http://www.mysociety.org) building [Freedom of I
 
 In 2017 I was a member of the Welsh Assembly's [Digital News and Engagement Taskforce](http://www.assembly.wales/en/abthome/about_us-commission_assembly_administration/Pages/Digital-News-and-Information-Taskforce.aspx). The objective of the Taskforce was to explore and [recommend](http://www.assembly.wales/SiteCollectionDocuments/Taskforce-Report-web-E.pdf) the most effective ways to increase levels of public understanding and engagement with audiences currently disengaged with politics and Welsh affairs.
 
-I've also worked on applications for [Box UK](http://www.boxuk.com), [World Vision](http://www.worldvisionmicro.org), [Cardiff University Students' Union](http://cardiffstudents.com), [Cardiff Venue Centre](http://cardiffvenuecentre.com), [Smart Card Store](http://smartcardstore.co.uk), [The Wales Trades Union Congress](http://standupforabetterway.org), [Havering Fabian Society](http://haveringfabians.org.uk) and [Maesycoed Motors](http://maesycoedmotors.co.uk).
-
 ## Blog
 
 {% for post in site.posts limit:3 %}
