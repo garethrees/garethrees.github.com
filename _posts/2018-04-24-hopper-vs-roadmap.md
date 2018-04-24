@@ -41,10 +41,6 @@ I visualise the Hopper as a 3 × 2 × 1 grid:
 * Items in the middle are having background work done on them to help define the concept.
 * The item at the bottom is a clearly defined concept ready to be worked on.
 
-Items closer to the mouth have a higher cost of change, as more homework has been done on these. The homework is still useful even if the item is switched out, but the team will need to re-familiarise with the problem if it gets chosen in a later cycle.
+The idea is that you still get a feeling of security about the next 6 blocks of work coming up, but you start to introduce the idea that the items can be changed.
 
-
-
-
-
-
+Items closer to the mouth have a higher cost of change, as more homework has been done on these to refine them in to a workable concept. The homework is still useful even if the item is switched out, but the team will need to re-familiarise with the problem if it gets chosen in a later cycle.
