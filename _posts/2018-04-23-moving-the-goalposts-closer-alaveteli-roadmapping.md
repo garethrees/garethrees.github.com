@@ -36,7 +36,7 @@ There are countless features, bug fixes, UI tweaks, marketing campaigns, user te
 We know it's almost certain that we won’t hit this goal in the space of a sprint, and just as unlikely that we’ll hit it in a quarter. The granularity of this goal isn’t aligned with the granularity of our short-to-medium term planning.
 </p>
 
-<p>To try to help with these shorter term decisions we’ve been using <a href="https://docs.google.com/spreadsheets/d/1dN8inVdphYd6x2tif4JpW58nYSufppRvWlnllyzSQ6g/edit#gid=0">a roadmap</a> loosely based on a version of <a href="https://insidegovuk.blog.gov.uk/2014/07/31/experiments-in-roadmapping-at-gov-uk/">GOV.UK’s roadmap experiment</a>.</p>
+<p>To try to help with these shorter term decisions we’ve been using a roadmap loosely based on a version of <a href="https://insidegovuk.blog.gov.uk/2014/07/31/experiments-in-roadmapping-at-gov-uk/">GOV.UK’s roadmap experiment</a>.</p>
 
 <figure>
 <a href="http://i.garethrees.co.uk/alaveteli-roadmap-2017-current.jpg">

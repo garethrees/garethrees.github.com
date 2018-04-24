@@ -11,7 +11,7 @@ Extracted from an internal blog post on how I was thinking about prioritising wo
 
 <p>This year I was in work between Christmas and New Year, which is a great couple of days to do some tidying up and prep for the year ahead.</p>
 
-<p>I <a href="https://blogs.mysociety.org/internal/2017/06/15/moving-the-goalposts-closer-alaveteli-roadmapping/">posted about our roadmap process</a> earlier in the year, and while it didn&rsquo;t work out entirely as planned, the main ideas stuck.</p>
+<p>I <a href="https://www.garethrees.co.uk/2018/04/23/moving-the-goalposts-closer-alaveteli-roadmapping/">posted about our roadmap process</a> earlier in the year, and while it didn&rsquo;t work out entirely as planned, the main ideas stuck.</p>
 
 <p>The gist is that we set a higher-level goal each sprint and make that the focus.</p>
 
