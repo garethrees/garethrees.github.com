@@ -34,7 +34,7 @@ Basecamp have [lots of other work practices](https://www.feltpresence.com/how-we
 The key parts that I think allow the Hopper to work for them are that:
 
 * They _expect to be done_ in a cycle; that way items don't roll over in to the next cycle.
-* They have a Strategy team refining the pitches in to well defined concepts ready for product teams to implement; that means you spend less time hitting blockers during the "work" cycle.
+* They have a Strategy team refining the [pitches](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#0fe5) in to well defined concepts ready for product teams to implement; that means you spend less time hitting blockers during the "work" cycle.
 * Product teams don't have any other assignments like dealing with unrelated bugs or support requests that distracts them from the cycle work.
 * They're happy to tweak scope through the cycle so that _some version_ gets shipped at the end.
 
@@ -56,8 +56,13 @@ So with that in mind, I visualise the Hopper as a 3 × 2 × 1 grid:
 * Items in the middle are having background work done on them to help define the concept.
 * The item at the bottom is a clearly defined concept ready to be worked on.
 
+The most important item is the one at the mouth of the Hopper, as this will be the target of the next cycle. Try to carve out a good porition of uninterrupted time to work on this item so that you can be confident that _some version_ of it will get shipped. It can be difficult to do this, as in smaller teams you also need time to keep the business running. I'd aim for between 50-70% allocated for "hopper" work. Start smaller, so that you're more confident in shipping _some version_ rather than trying to allocate too much time and then running over.
+
+You also need to allocate some time to looking ahead. Aim to allocate enough time during a cycle to look at the item at the mouth of the hopper and clearly define the work that should happen in the next cycle. Try to remove unknowns and define what's in and out of scope.
+
+Ideally, all work in the hopper should be clearly defined pitches, rather than vague ideas. If they're not, then spend time during cycles figuring out the details as they get closer and close to the mouth. Feel free to eject them from the hopper if there's still too much uncertainty, or other more well defined and important items of work come up.
+
 The idea is that you still get a feeling of security about the next 6 blocks of work coming up, but you start to introduce the idea that the items can be changed.
 
 Items closer to the mouth have a higher cost of change, as more homework has been done on these to refine them in to a workable concept. The homework is still useful even if the item is switched out, but the team will need to re-familiarise with the problem if it gets chosen in a later cycle.
 
-The most important item is the one at the mouth of the Hopper, as this will be the target of the next cycle. Try to carve out a good porition of uninterrupted time to work on this item so that you can be confident that _some version_ of it will get shipped.
