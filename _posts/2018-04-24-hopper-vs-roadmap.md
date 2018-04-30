@@ -62,7 +62,7 @@ You also need to allocate some time to looking ahead. Aim to allocate enough tim
 
 Ideally, all work in the hopper should be clearly defined pitches, rather than vague ideas. If they're not, then spend time during cycles figuring out the details as they get closer and close to the mouth. Feel free to eject them from the hopper if there's still too much uncertainty, or other more well defined and important items of work come up.
 
-The idea is that you still get a feeling of security about the next 6 blocks of work coming up, but you start to introduce the idea that the items can be changed.
+The idea is that you still get a feeling of security about the next 6 blocks of work coming up, but you start to introduce the idea that the items can be changed, and that the next item is clearly defined so that you're really confident that it will get completed during the cycle.
 
 Items closer to the mouth have a higher cost of change, as more homework has been done on these to refine them in to a workable concept. The homework is still useful even if the item is switched out, but the team will need to re-familiarise with the problem if it gets chosen in a later cycle.
 
