@@ -56,7 +56,7 @@ So with that in mind, I visualise the Hopper as a 3 × 2 × 1 grid:
 * Items in the middle are having background work done on them to help define the concept.
 * The item at the bottom is a clearly defined concept ready to be worked on.
 
-The most important item is the one at the mouth of the Hopper, as this will be the target of the next cycle. Try to carve out a good porition of uninterrupted time to work on this item so that you can be confident that _some version_ of it will get shipped. It can be difficult to do this, as in smaller teams you also need time to keep the business running. I'd aim for between 50-70% allocated for "hopper" work. Start smaller, so that you're more confident in shipping _some version_ rather than trying to allocate too much time and then running over.
+The most important item is the one at the mouth of the Hopper, as this will be the target of the next cycle. Try to carve out a good portion of uninterrupted time to work on this item so that you can be confident that _some version_ of it will get shipped. It can be difficult to do this, as in smaller teams you also need time to keep the business running. I'd aim for between 50-70% allocated for "hopper" work. Start smaller, so that you're more confident in shipping _some version_ rather than trying to allocate too much time and then running over.
 
 You also need to allocate some time to looking ahead. Aim to allocate enough time during a cycle to look at the item at the mouth of the hopper and clearly define the work that should happen in the next cycle. Try to remove unknowns and define what's in and out of scope.
 
