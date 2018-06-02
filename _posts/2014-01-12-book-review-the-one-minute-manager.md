@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Book Review – The One Minute Manager
+tags: book
 ---
 
 # {{ page.title }}

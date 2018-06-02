@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Book Notes – Principles
+tags: book
 ---
 
 # {{ page.title }}

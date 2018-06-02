@@ -2,6 +2,7 @@
 layout: post
 title: Book Notes – DevOps for Developers
 meta: Notes from reading DevOps for Developers
+tags: book
 ---
 
 # {{ page.title }}

@@ -2,7 +2,7 @@
 layout: post
 title: Book Notes – A Guide to the Good Life
 meta: A Guide to the Good Life
-
+tags: book
 ---
 
 # {{ page.title }}

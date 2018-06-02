@@ -6,7 +6,7 @@ title: Blog
 <section id="blog">
 	<h1>Blog</h1>
 
-	<ul id="posts">
+	<ul class="posts">
 		{% for post in site.posts %}
 		<li class="post">
 	    <time class="posted-on">{{ post.date | date_to_long_string }}</time>
