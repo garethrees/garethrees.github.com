@@ -33,7 +33,7 @@ I'm working with [Sam Knight](http://samknight.co.uk) to open Welsh politics wit
 - [Added a default option](https://github.com/thoughtbot/paperclip/pull/1061) to Thoughtbot's [paperclip](https://github.com/thoughtbot/paperclip) gem
 - [Contributor](https://github.com/thoughtbot/trail-map/graphs/contributors) to Thoughtbot's [Trail Map](https://github.com/thoughtbot/trail-map)
 - [Reformatted](https://github.com/thoughtbot/fistface/pull/2) Thoughtbot's [Fist Face](https://github.com/thoughtbot/fistface) gem to use Sinatra's modular extension style
-- [Touched up](https://github.com/ryanb/railscasts/pull/10) the watch button on [Railscasts](http://railscasts.com) <span style="color: #999; font-size: 0.75em; font-style: italic;">(First Pull Request)</span>
+- [Touched up](https://github.com/ryanb/railscasts/pull/10) the watch button on [Railscasts](http://railscasts.com) <span class="minor-note">(First Pull Request)</span>
 - [More &rarr;](https://github.com/garethrees?tab=contributions&period=monthly)
 
 ### Rubygems
