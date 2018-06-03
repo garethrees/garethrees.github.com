@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Book Notes – The Design of Everyday Things
-tags: book
 ---
 
 # {{ page.title }}

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Book Notes – Are Your Lights On?
-tags: book
 ---
 
 # {{ page.title }}

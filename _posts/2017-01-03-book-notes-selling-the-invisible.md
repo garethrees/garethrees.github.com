@@ -2,7 +2,6 @@
 layout: post
 title: Book Notes – Selling the Invisible
 meta: Notes from reading Selling the Invisible
-tags: book
 ---
 
 # {{ page.title }}

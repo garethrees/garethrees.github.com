@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Book Notes – Community Building on the Web
-tags: book
 ---
 
 # {{ page.title }}

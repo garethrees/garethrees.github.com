@@ -2,7 +2,6 @@
 layout: post
 title: Book Notes – So Good They Can't Ignore You
 meta: So Good They Can't Ignore You
-tags: book
 ---
 
 # {{ page.title }}

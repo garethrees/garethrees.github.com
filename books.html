@@ -4,16 +4,25 @@ title: Books
 ---
 
 <section id="books">
-	<h1>Books</h1>
+  <h1>Books</h1>
 
-  <ul class="posts">
-		{% for post in site.posts %}
-      {% if post.tags contains 'book' %}
+  {% for item in site.data.books %}
+    <h2>{{ item[0] }}</h2>
+
+    <ul class="posts">
+      {% for book in item[1] %}
         <li class="post">
-          <time class="posted-on">{{ post.date | date_to_long_string }}</time>
-          <a href="{{ post.url }}">{{ post.title }}</a>
+          {% if book.post %}
+            <a href="{{ book.post }}">{{ book.title }}</a>
+          {% else %}
+            <span>{{ book.title }}</span>
+          {% endif %}
+
+          {% if book.note %}
+            <small class="minor-note">({{ book.note }})</small>
+          {% endif %}
         </li>
-      {% endif %}
-		{% endfor %}
-  </ul>
+      {% endfor %}
+    </ul>
+  {% endfor %}
 </section>
