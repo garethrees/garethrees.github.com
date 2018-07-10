@@ -600,26 +600,3 @@ Invest some effort to assure the project’s scope is about the right size for t
 The key to success in fostering the kind of change we’re advocating is that you not try to wrestle the bull.
 
 It takes very little to raise people’s consciousness of it. Then it’s no longer just you. It’s everyone.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
