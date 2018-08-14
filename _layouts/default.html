@@ -9,11 +9,19 @@
 
   <style type="text/css" media="screen">
     body {
-      font-size: 1.075em;
-      line-height: 1.375em;
-      margin: 0 auto 6em auto;
-      max-width: 600px;
+      /* font-size * 1.618 */
+      font-size: 18px;
+      line-height: 28px;
       padding: 0 1em;
+    }
+    #main {
+      max-width: 780px;
+    }
+    h1,h2,h3,h4,h5,h6 {
+      letter-spacing: -1px;
+    }
+    h1.title {
+      letter-spacing: -2px;
     }
     a:hover,
     a:active,
@@ -22,7 +30,7 @@
       background-color: #FED70D;
     }
     img {
-      border: 3px solid #111;
+      border: 3px solid #ddd;
       max-width: 100%;
     }
     blockquote {
@@ -40,16 +48,6 @@
     }
     dfn {
       font-weight: bold;
-    }
-    .posts {
-      padding: 0;
-    }
-    .posts .posted-on {
-      display: none;
-    }
-    .posts .post {
-      line-height: 1.475em;
-      list-style: none;
     }
     .minor-note {
       color: #999;
