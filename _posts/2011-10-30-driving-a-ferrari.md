@@ -8,17 +8,9 @@ meta: Driving a Ferrari is ticked off the Life List
 
 Last year I had an **amazing** birthday present. I got the opportunity to drive a Ferrari. As a car lover, this has been on my life list for some time.
 
-<div class="grids cf">
+<img src="/images/posts/ferrari-2.jpg" alt="Picture of me setting off in the Ferrari" />
 
-	<figure class="grid-2" style="float:left;">
-		<img src="/images/posts/ferrari-2.jpg" alt="Picture of me setting off in the Ferrari" />
-	</figure>
-
-	<figure class="grid-1" style="float:left;">
-		<img src="/images/posts/ferrari-1.jpg" alt="Picture of me walking to the Ferrari" />
-	</figure>
-
-</div>
+<img src="/images/posts/ferrari-1.jpg" alt="Picture of me walking to the Ferrari" />
 
 ## Here's how it sounded
 
