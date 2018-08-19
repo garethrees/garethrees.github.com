@@ -1,254 +1,56 @@
-.cf:before,
-.cf:after {
-  content: " ";
-  display: table;
+body {
+  /* font-size * 1.618 */
+  font-size: 18px;
+  line-height: 28px;
+  padding: 0 1em;
 }
 
-.cf:after {
-  clear: both;
-}
-.cf {
-  *zoom: 1;
+#main {
+  max-width: 780px;
 }
 
-
-
-
-html {
-  background: #F2F2F2;
-  color: #132C54;
-  font-family: "Open Sans", Calibri, Arial, sans-serif;
-  text-shadow: 0 1px 0 #FFF;
+h1,h2,h3,h4,h5,h6 {
+  letter-spacing: -1px;
 }
 
-h1,
-h2,
-h3 {
-  color: #D31F22;
-}
-
-h4,
-h5,
-h6 {
-  color: #D31F22;
-}
-
-a {
-  color: #375FA4;
-  text-decoration: none;
-}
-
-a:visited {
-  color: #375FA4;
+h1.title {
+  letter-spacing: -2px;
 }
 
 a:hover,
 a:active,
 a:focus {
-  color: #F2F2F2;
-  background: #D31F22;
-  text-shadow: none;
+  color: #00416d;
+  background-color: #FED70D;
 }
 
-li {
-  margin-bottom: 0.4em;
-}
-
-li p {
-  margin: 0;
-}
-
-body {
-  margin: 0 auto;
-}
-
-.wrap {
-  margin: 0 auto;
-  max-width: 600px;
-}
-
-/* ==========================================================================
- * Banner
- * ==========================================================================*/
-
-#banner {
-  margin: 2em 0;
-}
-
-#banner .title {
-  float: left;
-  margin: 0;
-  max-width: 250px;
-}
-
-#banner .main-nav {
-  float: right;
-  margin: 0;
-  max-width: 350px;
-}
-
-.main-nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.main-nav li {
-  display: inline-block;
-  margin: 0;
-}
-
-.main-nav a {
-  display: block;
-  padding: 0.8em 1em;
-}
-
-/* ==========================================================================
- * Blog
- * ==========================================================================*/
-
-#posts {
-  line-height: 1.3;
-  list-style: none;
-  font-size: 1.2em;
-  font-weight: 600;
-  margin-bottom: 2em;
-  padding: 0;
-}
-
-#posts .post {
-  margin-bottom: 0.8em;
-}
-
-#posts .posted-on {  
-  color: #B3BEC0;
-  display: block;
-  float: left;
-  font-family: monospace;
-  font-size: 0.8em;
-  font-weight: normal;
-  line-height: 2;
-  margin-left: -240px;
-  text-align: right;
-  width: 220px;
-}
-
-/* ==========================================================================
- * Blog Post
- * ==========================================================================*/
-
-.post {
-  margin-bottom: 2em;
-}
-
-.post p a {
-  text-decoration: underline;
-  text-shadow: none;
-}
-
-.post p a:hover,
-.post p a:active,
-.post p a:focus {
-  text-decoration: none;
-}
-
-.post blockquote {
-  border-left: 4px solid #375FA4;
-  color: #132C54;
-  font-family: "Droid Serif", Georgia, sans-serif;
-  font-weight: 700;
-  line-height: 1.5;
-  margin: 0;
-  padding-left: 1.8em;
-}
-
-.post img {
-  display: block;
-  margin: 0.8em 0;
+img {
+  border: 3px solid #ddd;
   max-width: 100%;
 }
 
-.post img,
-.post figure img {
-  border: 4px solid #101123;
+blockquote {
+  border-left: 6px solid #ddd;
+  color: #999;
+  font-style: italic;
+  margin-left: 0;
+  padding-left: 1em;
 }
 
-.post pre {
-  background: #eef;
-  border: 1px solid #ddd;
-  padding: 0.8em;
-  text-shadow: none;
+figure {
+  margin: 0;
 }
 
-.post code {
-  background: #eef;
-  border: 1px solid #ddd;
-  border-radius: 0.25em;
-  font-size: 85%;
-  padding: 0.2em;
-}
-
-.post a:hover code {
-  color: #D31F22;
-}
-
-.post pre code {
+figure.highlight {
   border: none;
 }
 
-
-
-/* ==========================================================================
- * Footer
- * ==========================================================================*/
-
-#footer {
-  border-top: 1px solid #AABAD7;
-  margin-bottom: 4em;
+dfn {
+  font-weight: bold;
 }
 
-#network {
-  font-size: 0.85em;
-  list-style: none;
-  padding: 0;
-}
-
-#network li {
-  margin-bottom: 0.2em;
-}
-
-#copyright {
-  color: #B3BEC0;
-  font-family: monospace;
-}
-
-/* ==========================================================================
- * Responsive
- * ==========================================================================*/
-
-@media only screen and (max-width:890px) {
-  #posts .post a {
-    display: block;
-  }
-
-  #posts .posted-on {
-    display: block;
-    float: none;
-    margin: 0;
-    text-align: left;
-    width: auto;
-  }
-}
-
-@media only screen and (max-width:610px) {
-  .wrap {
-    padding: 2%;
-  }
-}
-
-@media only screen and (max-width:450px) {
-  #banner .title,
-  #banner .main-nav {
-    float: none;
-  }
+.minor-note {
+  color: #999;
+  font-size: 0.75em;
+  font-style: italic;
 }
