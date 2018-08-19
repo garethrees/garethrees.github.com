@@ -98,7 +98,7 @@ Prioritising this many options is impossible – and having [a huge backlog is d
     <img src="/images/posts/what-should-we-work-on-next/allocate-to-cycle.jpg" />
   </summary>
   <p>
-    Now its just a case of making a call and allocating some work based on the time we have available. If an issue doesn't get picked, it can always be evaluated for the next cycle.
+    Now its just a case of making a call from the <a href="/2018/04/24/hopper-vs-roadmap/">items in your hopper</a> and allocating some work based on the time we have available. If an issue doesn't get picked, it can always be evaluated for the next cycle.
   </p>
 </details>
 
