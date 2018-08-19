@@ -9,7 +9,7 @@ Ruby's [`defined?`](http://ruby-doc.org/docs/keywords/1.9/Object.html#method-i-d
 
 ## What is `defined?`
 
-> defined? expression tests whether or not expression refers to anything
+> `defined?` expression tests whether or not expression refers to anything
 > recognizable (literal object, local variable that has been initialized,
 > method name visible from the current scope, etc.). The return value is nil if
 > the expression cannot be resolved. Otherwise, the return value provides
@@ -21,26 +21,34 @@ So a few examples…
 
 When `x` isn't defined we'll get `nil`.
 
-    defined? x
-    => nil
+```ruby
+defined? x
+=> nil
+```
 
 When `x` is a variable, it will return `"local-variable"`.
 
-    x = 1
-    defined? x
-    => "local-variable"
+```ruby
+x = 1
+defined? x
+=> "local-variable"
+```
 
 `defined?` can also test expressions.
 
-    defined? x + 1 && x + 2
-    => "expression"
+```ruby
+defined? x + 1 && x + 2
+=> "expression"
+```
 
  Remember, the expression is not executed
 
-    defined? x + 1 && x + 2
-    => "expression"
-    x
-    => 1
+```ruby
+defined? x + 1 && x + 2
+=> "expression"
+x
+=> 1
+```
 
 ## Use Parentheses
 
@@ -50,11 +58,13 @@ the de-facto way of doing this.
 
 You might also want to check the value of the variable if it does exist:
 
-    <% if defined? follower_count && follower_count > 0 %>
-      <!-- Do A -->
-    <% else %>
-      <!-- Do B -->
-    <% end %>
+```erb
+<% if defined? follower_count && follower_count > 0 %>
+  <!-- Do A -->
+<% else %>
+  <!-- Do B -->
+<% end %>
+```
 
 In this case `defined?` treats `follower_count && follower_count > 0` as the
 expression to test, and since it can execute it, the return value is
@@ -64,8 +74,10 @@ always happen, regardless of whether `follower_count` is `0` or not.
 To avoid this issue, ensure the variable (or expression) you're testing is
 wrapped in parentheses.
 
-    <% if defined?(follower_count) && follower_count > 0 %>
-      <!-- Do A -->
-    <% else %>
-      <!-- Do B -->
-    <% end %>
+```erb
+<% if defined?(follower_count) && follower_count > 0 %>
+  <!-- Do A -->
+<% else %>
+  <!-- Do B -->
+<% end %>
+```

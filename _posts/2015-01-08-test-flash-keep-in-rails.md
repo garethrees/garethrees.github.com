@@ -10,26 +10,32 @@ since Rails 2.1.
 
 Here's how I got a passing spec.
 
-    it 'keeps the search_params flash' do
-      # Make two get requests to simulate the flash getting swept after the
-      # first response.
-      get :something, nil, nil, :foo => 'bar'
-      get :something
-      expect(flash[:foo]).to eq('bar')
-    end
+```ruby
+it 'keeps the search_params flash' do
+  # Make two get requests to simulate the flash getting swept after the
+  # first response.
+  get :something, nil, nil, :foo => 'bar'
+  get :something
+  expect(flash[:foo]).to eq('bar')
+end
+```
 
 With an empty controller, the spec fails.
 
-    class SomethingController < ApplicationController
-      def something
+```ruby
+class SomethingController < ApplicationController
+  def something
 
-      end
-    end
+  end
+end
+```
 
 Keeping the flash allows the spec to pass:
 
-    class SomethingController < ApplicationController
-      def something
-        flash.keep(:foo)
-      end
-    end
+```ruby
+class SomethingController < ApplicationController
+  def something
+    flash.keep(:foo)
+  end
+end
+```

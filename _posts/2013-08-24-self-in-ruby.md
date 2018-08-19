@@ -6,7 +6,7 @@ meta: Some examples of what self is in different contexts
 
 # `self` in Ruby
 
-{% highlight ruby %}
+```ruby
 module M
 
   def y
@@ -47,4 +47,4 @@ class D < C ; end
 
 >> D.x
 => D
-{% endhighlight %}
+```

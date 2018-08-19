@@ -76,17 +76,18 @@ To create an editable area, the developers just need to create a normal HTML ele
 
 Inside the editable element a simple helper is used. Content is namespaced under the page name (i.e. the basename of the `html.erb` file) and usually the `id` attrubute of the editable HTML element.
 
-{% highlight erb %}
+```erb
 <div id="what-is-the-agm" class="mercury-region" data-type="editable">
   <%= content_for_area('your-union', 'what-is-the-agm') %>
 </div>
-{% endhighlight %}
+```
 
 ### Retrieving Content
 
 A simple class method on `Content` pulls out the latest content for the area, and a helper method is used to call this from the view.
 
-{% highlight ruby %}
+
+```ruby
 module PagesHelper
   def content_for_area(page, area)
     area_content = Content.for_area(page, area)
@@ -99,4 +100,4 @@ class Content < ActiveRecord::Base
     self.find_all_by_page_name_and_area(page_name, area).last
   end
 end
-{% endhighlight %}
+```

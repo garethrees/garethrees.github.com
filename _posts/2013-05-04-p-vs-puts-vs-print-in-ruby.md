@@ -10,41 +10,41 @@ Ruby has three useful methods for printing information to the command line:
 
 Fire up `irb` and follow along!
 
-{% highlight ruby %}
+```ruby
 > class P
 >   def inspect(); "P#inspect"; end
 >   def to_s(); "P#to_s"; end
 > end
 
 > q = P.new
-{% endhighlight %}
+```
 
 ## print
 
 `Kernel#print` is the simplest of printing methods. `print` calls `to_s` on the
 object and spits it out to `$stdout`.
 
-{% highlight ruby %}
+```ruby
 > print q
 P#to_s => nil
-{% endhighlight %}
+```
 
 `print` does not append a new line.
 
-{% highlight ruby %}
+```ruby
 > print 1,2,3
 123 => nil
-{% endhighlight %}
+```
 
 New lines must be added manually when using `print`.
 
-{% highlight ruby %}
+```ruby
 > print 1,"\n",2,"\n",3,"\n"
 1
 2
 3
  => nil
-{% endhighlight %}
+```
 
 ## puts
 
@@ -52,7 +52,7 @@ New lines must be added manually when using `print`.
 
 `puts` is similar to `print` – calling `to_s` – but adds a newline to the output.
 
-{% highlight ruby %}
+```ruby
 > puts q
 P#to_s
  => nil
@@ -62,7 +62,7 @@ P#to_s
 2
 3
  => nil
-{% endhighlight %}
+```
 
 ## p
 
@@ -70,7 +70,7 @@ P#to_s
 
 It is similar to `puts` in that it adds a newline, but rather than calling `to_s`, `p` calls `inspect`.
 
-{% highlight ruby %}
+```ruby
 > p q
 P#inspect
  => P#inspect
@@ -80,29 +80,29 @@ P#inspect
 2
 3
 => [1, 2, 3]
-{% endhighlight %}
+```
 
 `p` can be more useful for debugging. As `puts` calls `to_s`, you can't be exactly sure of what class an object is.
 
-{% highlight ruby %}
+```ruby
 > puts 1
 1
 => nil
 > puts '1'
 1
 => nil
-{% endhighlight %}
+```
 
 With `p` we get a better indicator of what we're actually looking at.
 
-{% highlight ruby %}
+```ruby
 > p 1
 1
 => 1
 > p '1'
 "1"
 => "1"
-{% endhighlight %}
+```
 
 ## References
 

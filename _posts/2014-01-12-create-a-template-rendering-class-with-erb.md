@@ -12,9 +12,8 @@ I've often wanted to create a class which generates some text from a template. I
 Here's what we'll end up with.
 Source available [on GitHub](https://gist.github.com/garethrees/8386142).
 
-{% highlight ruby %}
+```ruby
 class WelcomeMessage < ERB
-
   def self.template
     "Welcome, <%= @name %>"
   end
@@ -28,9 +27,8 @@ class WelcomeMessage < ERB
   def result
     super(binding)
   end
-
 end
-{% endhighlight %}
+```
 
 ## How ERB Works
 
@@ -38,7 +36,7 @@ First, I took a look at [how Ruby's ERB templating system works](http://rrn.dk/r
 
 It's pretty simple.
 
-{% highlight ruby %}
+```ruby
 require 'erb'
 
 name            = "Gareth"
@@ -46,7 +44,7 @@ template_string = "My name is <%= name %>"
 template        = ERB.new(template_string)
 template.result
 # => prints "My name is Gareth"
-{% endhighlight %}
+```
 
 So we can see all that's needed to create a new instance of `ERB` is the template in the form of a `String`, and then call `result` in order to render the template and interpolate any variables.
 
@@ -56,7 +54,7 @@ Notice that `name` is a variable in the top level context of `self`.
 
 We can pass a [`Binding`](http://ruby-doc.org/core-2.1.0/Binding.html) object to `ERB#render` to access a different set of variables.
 
-{% highlight ruby %}
+```ruby
 require 'erb'
 
 class DummyController
@@ -78,7 +76,7 @@ template_string = "Welcome <%= @name %>"
 template        = ERB.new(template_string)
 template.result(controller.get_binding)
 # => "Welcome Gareth"
-{% endhighlight %}
+```
 
 ## Subclassing ERB
 
@@ -86,7 +84,7 @@ What I really wanted was a class that could return a rendered template itself.
 
 First, I defined how I wanted to interact with the class and sketched a template of the public methods I'd need.
 
-{% highlight ruby %}
+```ruby
 # Example usage
 msg = WelcomeMessage.new('Gareth')
 msg.result
@@ -94,7 +92,6 @@ msg.result
 
 # Sketch outline of class
 class WelcomeMessage < ERB
-
   def initialize(name)
     # store the name of the person to greet
   end
@@ -102,17 +99,15 @@ class WelcomeMessage < ERB
   def result
     # render the template
   end
-
 end
-{% endhighlight %}
+```
 
 ### Setting up the data
 
 After storing the name in an instance variable, the next step was picking the template to render. As we know, `ERB` itself takes the template string as an argument to `initialize`. We can pass this up the chain by calling `super` with the template. I set a default at the class level and allowed an option to be passed when creating a new instance of the class.
 
-{% highlight ruby %}
+```ruby
 class WelcomeMessage < ERB
-
   def self.template
     "Welcome, <%= @name %>"
   end
@@ -122,7 +117,6 @@ class WelcomeMessage < ERB
     @template = options.fetch(:template, self.class.template)
     super(@template)
   end
-
 end
 
 # Use the default template
@@ -131,25 +125,26 @@ msg.instance_variable_get(:@template)
 # => "Welcome, <%= @name %>"
 
 # Use a custom template
-msg = WelcomeMessage.new('Gareth', template: "Hello, <%= @name %>") msg.instance_variable_get(:@template)
+msg = WelcomeMessage.new('Gareth', template: "Hello, <%= @name %>")
+msg.instance_variable_get(:@template)
 # => "Hello, <%= @name %>"
-{% endhighlight %}  
+```  
 
 Now we need to interpolate the variables in to the template and render it. To make the API consistent with `ERB`, we'll override `ERB#result` to always pass the binding as a parameter.
 
-{% highlight ruby %}
+```ruby
 def result
   super(binding)
 end
-{% endhighlight %}
+```
 
 Now we can use the new class to render our template!
 
-{% highlight ruby %}
+```ruby
 msg = WelcomeMessage.new('Gareth')
 msg.result
 # => "Welcome, Gareth"
-{% endhighlight %}
+```
 
 ## Notes
 

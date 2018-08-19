@@ -19,9 +19,12 @@ git-contrib includes [`diff-highlight`](https://github.com/git/git/tree/master/c
 
 Just add the following to your `~/.gitconfig`:
 
-    [pager]
-      diff = /usr/local/Library/LinkedKegs/git/share/git-core/contrib/diff-highlight/diff-highlight | less
-      log  = /usr/local/Library/LinkedKegs/git/share/git-core/contrib/diff-highlight/diff-highlight | less
-      show = /usr/local/Library/LinkedKegs/git/share/git-core/contrib/diff-highlight/diff-highlight | less
+
+```ini
+[pager]
+  diff = /usr/local/Library/LinkedKegs/git/share/git-core/contrib/diff-highlight/diff-highlight | less
+  log  = /usr/local/Library/LinkedKegs/git/share/git-core/contrib/diff-highlight/diff-highlight | less
+  show = /usr/local/Library/LinkedKegs/git/share/git-core/contrib/diff-highlight/diff-highlight | less
+```
 
 Note that I've used `/usr/local/Library/LinkedKegs/git` to link to the [latest version of a Homebrew formula](http://superuser.com/a/593931/123928). This will ensure `diff-highlight` is the one included with the current version of git.
