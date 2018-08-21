@@ -62,7 +62,7 @@ Prioritising this many options is impossible – and having [a huge backlog is d
     To do this, look for those that have a described <em>problem</em> and a proposed <em>solution</em>.
   </p>
   <p>
-    Without a <a href="https://demandthinking.com/episodes/2017/7/23/episode-1-think-you-might-be-building-the-wrong-thing-youve-misinterpreted-demand">clear demand</a> then there's probably no real value in solving the problem. Issues of this nature fit in to the “Wouldn't it be nice if…” bucket.
+    Without a <a href="https://demandthinking.com/episodes/2017/7/23/episode-1-think-you-might-be-building-the-wrong-thing-youve-misinterpreted-demand">clear demand</a> then there's probably no real value in solving the problem. Issues of this nature fit in to the “Wouldn't it be nice if…” bucket. Issues titled “Redesign the X page” or “Rewrite the X” may also be a sign of supply-only thinking.
   </p>
   <p>
     Without a proposed solution we can't make a good decision on whether completing the issue is valuable. We can't guess at how much effort is involved if we don't know what we're trying to achieve – so we can't decide whether the cost is worth it – or whether we can even solve the problem in a satisfying way at all.
