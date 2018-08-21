@@ -94,15 +94,15 @@ Prioritising this many options is impossible – and having [a huge backlog is d
 
 <details>
   <summary>
-    Allocate to Cycle
-    <img src="/images/posts/what-should-we-work-on-next/allocate-to-cycle.jpg" />
+    Feed the Hopper
+    <img src="/images/posts/what-should-we-work-on-next/feed-the-hopper.jpg" />
   </summary>
   <p>
-    Now its just a case of making a call from the <a href="/2018/04/24/hopper-vs-roadmap/">items in your hopper</a> and allocating some work based on the time we have available. If an issue doesn't get picked, it can always be evaluated for the next cycle.
+    The remaining items are important – and actionable – so can be added to <a href="/2018/04/24/hopper-vs-roadmap/">the hopper of ideas</a> that may be picked for a cycle.
   </p>
 </details>
 
-None of this means that everything we pick is going to be the _most_ impactful out of the whole pool of things to improve. We'll miss some that aren't actionable, or maybe we'll pick some that just don't work out as we'd expected.
+This process doesn’t _guarantee_ that everything we pick is going to be the _most_ impactful out of the whole pool of things to improve. We'll miss some that aren't actionable, or maybe we'll pick some that just don't work out as we'd expected.
 
 What we _are_ doing is maximising our chances of creating _some_ value by shipping the things we choose to work on. **Concerns** help compartmentalise the things to improve, and make better tradeoffs when we can't do everything we'd like. **Actionable issues** help avoid running in circles around an unclear solution, and ensuring the things that we work on are going to create real value for _someone_.
 
