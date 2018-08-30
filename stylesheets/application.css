@@ -45,6 +45,15 @@ figure.highlight {
   border: none;
 }
 
+
+pre {
+  overflow-x: auto;
+}
+
+iframe {
+  max-width: 100%;
+}
+
 dfn {
   font-weight: bold;
 }
