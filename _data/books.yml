@@ -40,6 +40,8 @@
   - title: Driving Technical Change
   - title: The Passionate Programmer
   - title: The $100 Startup
+  - title: Practical Object-Oriented Design in Ruby
+    note: Chapters 1-6
 
 2014:
   - title: Web Operations
@@ -49,13 +51,19 @@
 2013:
   - title: Devops for Developers
     post: /2013/09/17/devops-for-developers
+  - title: The Well-Grounded Rubyist
+    note: 30%
   - title: User Stories Applied For Agile Software Development
   - title: Deal With It
     post: /2013/02/01/book-review-deal-with-it
 
 The Past:
+  - title: A Practical Guide to Information Architecture
   - title: Agile Web Development with Rails
+  - title: CSS Mastery
+  - title: Defensive Design for the Web
   - title: Don't Make Me Think
+  - title: Foundation Rails 2
   - title: Getting Real
   - title: Getting Things Done
   - title: Information Architecture
