@@ -19,7 +19,7 @@ Now, control is passé and a badge of incompetence.
 
 Our workers have unlimited access to our books… To show we are serious about this, Semco… developed a course to teach everyone, even messengers and cleaning people, to read balance sheets and cash-flow statements.
 
-At Semco we have stripped away the unnecessary perks and privileges that feed the ego but hurt the balance sheet and distract everyone from the **crucial corporate tasks of making, selling, billing and collecting.
+At Semco we have stripped away the unnecessary perks and privileges that feed the ego but hurt the balance sheet and distract everyone from the **crucial corporate tasks of making, selling, billing and collecting**.
 
 I also take at least two months off each year to travel.
 
