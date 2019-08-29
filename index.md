@@ -17,11 +17,11 @@ In 2017 I was a member of the Welsh Assembly's [Digital News and Engagement Task
 
 ## Community
 
-I founded and run [cardiffrb](http://cardiffrb.com), a [monthly](http://lanyrd.com/profile/cardiffrb/future) meet up for Ruby programmers in [Cardiff, UK](http://goo.gl/maps/5VuC8).
+I founded and run [cardiffrb](http://cardiffrb.com), a monthly meet up for Ruby programmers in [Cardiff, UK](http://goo.gl/maps/5VuC8).
 
-I created [Cardiff Collective](http://collective.cardiffstart.com) as a place for entrepreneurs in Cardiff to connect and share knowledge.
+I created [Cardiff Collective](http://web.archive.org/web/20140212012139/http://collective.cardiffstart.com/) as a place for entrepreneurs in Cardiff to connect and share knowledge.
 
-I'm working with [Sam Knight](http://samknight.co.uk) to open Welsh politics with [Your Senedd](http://www.yoursenedd.com).
+I'm worked with [Sam Knight](http://samknight.co.uk) to open Welsh politics with [Your Senedd](https://web.archive.org/web/20171020022609/http://yoursenedd.wales/).
 
 ## Open Source
 
@@ -43,7 +43,7 @@ I'm working with [Sam Knight](http://samknight.co.uk) to open Welsh politics wit
 - [**hunter**](http://rubygems.org/gems/hunter): Calculates which email domains your subscribers use
 - [**twalk**](http://rubygems.org/gems/twalk): Twalk displays tweets of your followers who are talking to one another
 - [**ncbi_blast_results_parser**](https://rubygems.org/gems/ncbi_blast_results_parser): Parses HTML 'API' responses from [NCBI Blast](http://blast.ncbi.nlm.nih.gov/Blast.cgi)
-- [More &rarr;](http://rubygems.org/profiles/garethrees) 
+- [More &rarr;](http://rubygems.org/profiles/garethrees)
 
 ### Other
 
