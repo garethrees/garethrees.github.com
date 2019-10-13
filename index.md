@@ -21,7 +21,7 @@ I founded and run [cardiffrb](http://cardiffrb.com), a monthly meet up for Ruby 
 
 I created [Cardiff Collective](http://web.archive.org/web/20140212012139/http://collective.cardiffstart.com/) as a place for entrepreneurs in Cardiff to connect and share knowledge.
 
-I worked with [Sam Knight](http://samknight.co.uk) to open Welsh politics with [Your Senedd](https://web.archive.org/web/20171020022609/http://yoursenedd.wales/).
+I worked with [Sam Knight](https://www.samknight.co.uk) to open Welsh politics with [Your Senedd](https://web.archive.org/web/20171020022609/http://yoursenedd.wales/).
 
 ## Open Source
 
