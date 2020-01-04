@@ -30,4 +30,8 @@ Talent is created by a motivation “Ignition” and lots of “Deep Practice”
 
 ### Deep Practice
 
-Deep practice is forcing yourself to work **just outside the edge of your comfort zone** with master coaching to **identify and eliminate errors** in a fast feedback loop.
+Deep practice is forcing yourself to work **just outside the edge of your comfort zone**.
+
+### Coaching
+
+Master coaching is important to **identify and eliminate errors** in a fast feedback loop, which helps you level-up.
