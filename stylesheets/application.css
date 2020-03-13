@@ -74,6 +74,12 @@ aside,
   display: inline;
 }
 
+@media all and (max-width: 699px) {
+  .posted-on {
+    display: block;
+  }
+}
+
 #footer {
   font-size: small;
 }
