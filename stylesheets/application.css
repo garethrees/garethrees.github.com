@@ -65,6 +65,15 @@ aside,
   font-style: italic;
 }
 
+.post {
+  margin: 0;
+}
+
 .posted-on {
-  display: block;
+  color: #9e9c9c;
+  display: inline;
+}
+
+#footer {
+  font-size: small;
 }
