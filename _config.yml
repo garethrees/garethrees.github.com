@@ -1,5 +1,9 @@
-site: http://www.garethrees.co.uk
+site: https://www.garethrees.co.uk
+url: https://www.garethrees.co.uk
+title: Gareth Rees
+author: Gareth Rees
 permalink: pretty
 highlighter: rouge
 plugins:
+  - jekyll-feed
   - jekyll-sitemap
