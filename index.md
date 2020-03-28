@@ -13,7 +13,7 @@ In 2017 I was a member of the Welsh Assembly's [Digital News and Engagement Task
   {% for post in site.posts limit:3 %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
-    <time class="posted-on minor-note">
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="posted-on minor-note">
       {{ post.date | date_to_long_string }}
     </time>
   </li>
