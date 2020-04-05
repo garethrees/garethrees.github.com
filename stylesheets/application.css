@@ -9,6 +9,10 @@ body {
   max-width: 780px;
 }
 
+#print-url {
+  display: none;
+}
+
 h1,h2,h3,h4,h5,h6 {
   letter-spacing: -1px;
 }
@@ -87,5 +91,38 @@ aside,
 @media screen and (prefers-color-scheme: dark) {
   body {
     background: #fdf6e3;
+  }
+}
+
+@media print {
+  @page {
+    margin: 0.5cm;
+  }
+
+  #banner, #footer, #nav {
+    display: none !important;
+  }
+
+  #print-url {
+    display: block;
+  }
+
+  img {
+    max-width: 60%;
+  }
+
+  .post a {
+    color: #000;
+    text-decoration: none;
+    word-wrap: break-word;
+  }
+
+  .post a:after {
+    content: " [" attr(href) "] ";
+    font-size: 80%;
+  }
+
+  p a[href^="#"]:after {
+    display: none;
   }
 }
