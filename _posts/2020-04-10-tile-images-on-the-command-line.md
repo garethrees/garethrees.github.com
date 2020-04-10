@@ -96,4 +96,6 @@ $ tile a.png b.png 2up.jpg
 
 You’ll also have probably noticed that `montage` automatically converts from `png` to `jpg` by simply specifying the output format you want. Magick!
 
+There’s [a lot](https://medium.com/@jorinvo/edit-images-on-the-command-line-with-graphicsmagick-fb53bc62d078) [more](https://hackernoon.com/save-time-by-transforming-images-in-the-command-line-c63c83e53b17) you can do with ImageMagick on the command line, but merging images together into a tiled layout is my most-used feature, and it’s much easier with montage compared to any of the default Apple image editing tools.
+
 [Let me know](https://twitter.com/_gareth/) if you have any feedback.
