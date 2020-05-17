@@ -86,19 +86,6 @@ aside,
 
 @media screen and (prefers-color-scheme: dark) {
   body {
-    background: #1b1b1b;
-    color: antiquewhite;
-  }
-
-  a {
-    color: yellow;
-  }
-
-  a:visited{
-    color: #B312A8;
-  }
-
-  blockquote {
-    border-left-color: black;
+    background: #fdf6e3;
   }
 }
