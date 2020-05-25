@@ -7,7 +7,7 @@ title: "Book Notes – Remote: Office Not Required"
 
 A book by [Basecamp](https://basecamp.com/books).
 
-I've been [working remotely](https://www.mysociety.org/about/careers/) for over 6 years so not much of the ideas were new to me.
+I've been [working remotely](https://www.mysociety.org/about/careers/) for over 6 years so not much was new to me.
 
 Even so, there were some nice reminders of why remote working is great and how we do pretty much all of what's suggested in the book.
 
