@@ -35,4 +35,4 @@ As I’ve been using the knowledge in writing I’ve noticed that the pattern is
 
 I'm not sure I'm synthesising sources as well as I could be, but even having raw notes in one place has prompted me to extract individual concepts and create structure notes that help distill ideas into reusable summaries that help convey the core concepts of sometimes quite large primary sources.
 
-![ZettelKasten stats after 3 months](/images/posts/zettelkasten-3-months-article-summary.jpg)
+![ZettelKasten article summary note](/images/posts/zettelkasten-3-months-article-summary.jpg)
