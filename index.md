@@ -34,7 +34,7 @@ I worked with [Sam Knight](https://www.samknight.co.uk) to open Welsh politics w
 
 - [Contributed](http://contributors.rubyonrails.org/contributors/gareth-rees/commits) code and documentation to [Ruby on Rails](http://rubyonrails.org)
 - Fixed a [quote-handling regression in mail](https://github.com/mikel/mail/pull/1023) gem.
-- [Several contributions](https://github.com/ddollar/github-backup/commits?author=garethrees) to github-backup including [uptdaing to GitHub API v3](https://github.com/ddollar/github-backup/pull/8)
+- [Several contributions](https://github.com/ddollar/github-backup/commits?author=garethrees) to github-backup including [updating to GitHub API v3](https://github.com/ddollar/github-backup/pull/8)
 - [Forked acl_system2](https://github.com/boxuk/acl_system2) to [add Rails 3 compatibility](https://github.com/boxuk/acl_system2/pull/5) and release as a [rubygem](https://rubygems.org/gems/acl_system2)
 - [Fixed bug](https://github.com/heapsource/active_model_otp/pull/27) in `ActiveModel::Otp` while using ActiveRecord
 - [Added a default option](https://github.com/thoughtbot/paperclip/pull/1061) to Thoughtbot's [paperclip](https://github.com/thoughtbot/paperclip) gem
