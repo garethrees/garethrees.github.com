@@ -49,6 +49,9 @@ figure.highlight {
   border: none;
 }
 
+pre.highlight {
+  font-size: 0.85em;
+}
 
 pre {
   overflow-x: auto;
