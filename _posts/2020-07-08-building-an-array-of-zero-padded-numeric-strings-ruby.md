@@ -30,3 +30,11 @@ files
   map { |id| "file-#{ id }.md" }
 # => ["file-000001.md", "file-000002.md", "file-000003.md"]
 ```
+
+Or even shorter, if you don't mind mutating a variable…
+
+```ruby
+start = '000000'
+3.times.reduce([]) { |memo| memo << "file-#{ start.next! }.md" }
+# => ["file-000001.md", "file-000002.md", "file-000003.md"]
+```
