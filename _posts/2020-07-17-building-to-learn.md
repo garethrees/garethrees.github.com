@@ -99,7 +99,7 @@ Complex problems have no definitive right answers and you can only understand ca
 ## Further Reading
 
 * Complexity: [Removing software as the inhibitor of Agile](https://www.youtube.com/watch?v=CQ3lncWkTYE), [How leaders change culture through small actions](https://www.youtube.com/watch?v=MsLmjoAp_Dg)
-* Shaping & Betting: [Shape Up](https://basecamp.com/shapeup)
+* Shaping & Betting: [Shape Up](https://basecamp.com/shapeup), [Thinking in Bets](https://peterattiamd.com/annieduke/)
 * Journaling: [Bulletins vs bulletin boards](https://seths.blog/2020/04/bulletins-vs-bulletin-boards)
 
 ## Footnotes
