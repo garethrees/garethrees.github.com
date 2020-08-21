@@ -49,6 +49,13 @@ figure.highlight {
   border: none;
 }
 
+figcaption {
+  color: #999;
+  font-size: 0.85em;
+  font-style: italic;
+  padding-left: 1em;
+}
+
 pre.highlight {
   font-size: 0.85em;
 }
