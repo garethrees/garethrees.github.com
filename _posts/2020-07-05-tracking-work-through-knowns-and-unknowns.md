@@ -59,7 +59,10 @@ Over the last few years Basecamp has been developing a novel idea for tracking t
 
 A Hill Chart is a simple bell-curve shaped chart where a task’s progress is indicated by a point on the curve. Split in half, the hill represents the two types of work.
 
-![Ryan Singer's diagram of a Hill Chart](/images/posts/ryan-singer-basecamp-hill-chart.jpg)
+<figure>
+  <img alt="Ryan Singer's diagram of a Hill Chart" src="/images/posts/ryan-singer-basecamp-hill-chart.jpg" />
+  <figcaption>– Ryan Singer's diagram of a Hill Chart</figcaption>
+</figure>
 
 A task on the left is still largely in the problem-solving stage. It moves **uphill** as we’re “_figuring it out_”, testing our initial theories and discovering the tasks that need to get done.
 
