@@ -168,7 +168,7 @@ We should take care to _witness_ what's going on in the world to avoid becoming 
 
 This week we started the Beautiful Software seminar. [Greg](http://www.rainmagazine.com/) gave an intro on the course, and a bit of background on Alexander’s work in the computer industry so far.
 
-—
+<hr />
 
 The original material gives you a grounding on what Alexander considers "good" in the world, and you can apply this to other domains. It can be difficult to learn how to apply the ideas intuitively from the books alone though.
 
@@ -186,7 +186,7 @@ How do you figure out and separate out the stuff that's working well vs the stuf
 
 Will Right – who did Sim City and The Sims – read Nature of Order. We convinced his design team to read Nature of Order. I don't know what they got out of it, but they didn't come back, so we learned that just handing off the books didn't really create much momentum.
 
-—
+<hr />
 
 We spoke about what we feel like success looks like. A repeated theme was being able to _define_ and _demonstrate_ beautiful software.
 
