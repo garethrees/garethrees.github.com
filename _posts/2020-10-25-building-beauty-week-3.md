@@ -115,14 +115,16 @@ We’re working on our large scale individual project proposals for presentation
 
 This week we focused on the latter half of the [15 fundamental properties](/2020/10/19/building-beauty-week-2/#nature-of-order).
 
-8. **Deep Interlock and Ambiguity:** Looping, connected elements promote unity and grace.
-9. **Contrast:** Unity is achieved with visible opposites.
-10. **Gradients:** The proportional use of space and pattern creates harmony.
-11. **Roughness:** Texture and imperfections convey uniqueness and life.
-12. **Echoes:** Similarities should repeat throughout a design.
-13. **The Void:** Empty spaces offer calm and contrast.
-14. **Simplicity and Inner Calm:** Use only essentials; avoid extraneous elements.
-15. **Not-Separateness:** Designs should be connected and complementary, not egocentric and isolated.
+<ol start="8">
+  <li><strong>Deep Interlock and Ambiguity:</strong> Looping, connected elements promote unity and grace.</li>
+  <li><strong>Contrast:</strong> Unity is achieved with visible opposites.</li>
+  <li><strong>Gradients:</strong> The proportional use of space and pattern creates harmony.</li>
+  <li><strong>Roughness:</strong> Texture and imperfections convey uniqueness and life.</li>
+  <li><strong>Echoes:</strong> Similarities should repeat throughout a design.</li>
+  <li><strong>The Void:</strong> Empty spaces offer calm and contrast.</li>
+  <li><strong>Simplicity and Inner Calm:</strong> Use only essentials; avoid extraneous elements.</li>
+  <li><strong>Not-Separateness:</strong> Designs should be connected and complementary, not egocentric and isolated.</li>
+</ol>
 
 Again we did an exercise to understand these properties; this time we picked an image that we considered to have the properties, and one we thought didn’t have them.
 
