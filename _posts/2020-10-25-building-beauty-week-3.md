@@ -164,6 +164,10 @@ When getting into arguments about whether you like something or not, always get 
 
 We should take care to _witness_ what's going on in the world to avoid becoming disoriented and lose meaning.
 
+I was a little ahead of myself on reading this week. Along with the remaining 15 properties we were covering the 15 properties in nature. While interesting, there wasn't much _new_ information, so took fewer notes on that.
+
+![Nature Of Order Book Notes Week 3](/images/posts/building-beauty/nature-of-order-week-3.jpg)
+
 ## Beautiful Software
 
 This week we started the Beautiful Software seminar. [Greg](http://www.rainmagazine.com/) gave an intro on the course, and a bit of background on Alexander’s work in the computer industry so far.
