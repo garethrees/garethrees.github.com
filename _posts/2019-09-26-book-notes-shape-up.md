@@ -7,7 +7,7 @@ title: "Book Notes – Shape Up"
 
 ## 1. Introduction
 
-Building the right thing: Competing Against Luck
+Building the right thing: [Competing Against Luck](/2020/08/23/book-notes-competing-against-luck/)
 
 This book is about the risk of getting stuck, the risk of getting bogged down with last quarter’s work, wasting time on unexpected problems, and not being free to do what you want to do tomorrow.
 
