@@ -39,8 +39,8 @@ We know it's almost certain that we won’t hit this goal in the space of a spri
 <p>To try to help with these shorter term decisions we’ve been using a roadmap loosely based on a version of <a href="https://insidegovuk.blog.gov.uk/2014/07/31/experiments-in-roadmapping-at-gov-uk/">GOV.UK’s roadmap experiment</a>.</p>
 
 <figure>
-<a href="http://i.garethrees.co.uk/alaveteli-roadmap-2017-current.jpg">
-<img src="http://i.garethrees.co.uk/alaveteli-roadmap-2017-current.jpg" alt="Alaveteli Roadmap 2017 Current">
+<a href="/images/posts/alaveteli-roadmap-2017-current.jpg">
+<img src="/images/posts/alaveteli-roadmap-2017-current.jpg" alt="Alaveteli Roadmap 2017 Current">
 <figcaption>Alaveteli Roadmap 2017 Current</figcaption>
 </a>
 </figure>
@@ -80,8 +80,8 @@ We know it's almost certain that we won’t hit this goal in the space of a spri
 <p>We’re pretty clear on our yearly goal and how to measure it. Easy!</p>
 
 <figure>
-<a href="http://i.garethrees.co.uk/alaveteli-roadmap-2017-yearly-goals.jpg">
-<img src="http://i.garethrees.co.uk/alaveteli-roadmap-2017-yearly-goals.jpg" alt="Alaveteli Roadmap 2017 Yearly Goals">
+<a href="/images/posts/alaveteli-roadmap-2017-yearly-goals.jpg">
+<img src="/images/posts/alaveteli-roadmap-2017-yearly-goals.jpg" alt="Alaveteli Roadmap 2017 Yearly Goals">
 <figcaption>Alaveteli Roadmap 2017 Yearly Goals</figcaption>
 </a>
 </figure>
@@ -114,8 +114,8 @@ We know it's almost certain that we won’t hit this goal in the space of a spri
 </ul>
 
 <figure>
-<a href="http://i.garethrees.co.uk/alaveteli-roadmap-2017-quarterly-goals.jpg">
-<img src="http://i.garethrees.co.uk/alaveteli-roadmap-2017-quarterly-goals.jpg" alt="Alaveteli Roadmap 2017 Quarterly Goals">
+<a href="/images/posts/alaveteli-roadmap-2017-quarterly-goals.jpg">
+<img src="/images/posts/alaveteli-roadmap-2017-quarterly-goals.jpg" alt="Alaveteli Roadmap 2017 Quarterly Goals">
 <figcaption>Alaveteli Roadmap 2017 Quarterly Goals</figcaption>
 </a>
 </figure>
@@ -139,8 +139,8 @@ We know it's almost certain that we won’t hit this goal in the space of a spri
 <p>For example, if we were focusing on “Engagement”, a sprint goal might be “Increase use of the request classification game”.</p>
 
 <figure>
-<a href="http://i.garethrees.co.uk/alaveteli-roadmap-2017-sprint-goals.jpg">
-<img src="http://i.garethrees.co.uk/alaveteli-roadmap-2017-sprint-goals.jpg" alt="Alaveteli Roadmap 2017 Sprint Goals">
+<a href="/images/posts/alaveteli-roadmap-2017-sprint-goals.jpg">
+<img src="/images/posts/alaveteli-roadmap-2017-sprint-goals.jpg" alt="Alaveteli Roadmap 2017 Sprint Goals">
 <figcaption>Alaveteli Roadmap 2017 Sprint Goals</figcaption>
 </a>
 </figure>
@@ -184,8 +184,8 @@ We know it's almost certain that we won’t hit this goal in the space of a spri
 </ul>
 
 <figure>
-<a href="http://i.garethrees.co.uk/alaveteli-roadmap-2017-overview-painted.jpg">
-<img src="http://i.garethrees.co.uk/alaveteli-roadmap-2017-overview-painted.jpg" alt="Alaveteli Roadmap 2017 Overview">
+<a href="/images/posts/alaveteli-roadmap-2017-overview-painted.jpg">
+<img src="/images/posts/alaveteli-roadmap-2017-overview-painted.jpg" alt="Alaveteli Roadmap 2017 Overview">
 <figcaption>Alaveteli Roadmap 2017 Overview</figcaption>
 </a>
 </figure>
@@ -201,8 +201,8 @@ We know it's almost certain that we won’t hit this goal in the space of a spri
 </ul>
 
 <figure>
-<a href="http://i.garethrees.co.uk/alaveteli-roadmap-2017-goals.jpg">
-<img src="http://i.garethrees.co.uk/alaveteli-roadmap-2017-goals.jpg" alt="Alaveteli Roadmap 2017 Goals">
+<a href="/images/posts/alaveteli-roadmap-2017-goals.jpg">
+<img src="/images/posts/alaveteli-roadmap-2017-goals.jpg" alt="Alaveteli Roadmap 2017 Goals">
 <figcaption>Alaveteli Roadmap 2017 Goals</figcaption>
 </a>
 </figure>
