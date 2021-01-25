@@ -5,7 +5,7 @@ title: "Book Notes – Boyd: The Fighter Pilot Who Changed the Art of War"
 
 # {{ page.title }}
 
-![Book Cover of How to Win Friends and Influence People](/images/posts/boyd.jpg)
+![Book Cover of Boyd](/images/posts/boyd.jpg)
 
 And while Boyd's life was marked by a series of enormous accomplishments and lasting achievements, the thing that meant the most to him over the period of time was the simple title he had in the beginning. He was first, last, and always a fighter pilot.
 
