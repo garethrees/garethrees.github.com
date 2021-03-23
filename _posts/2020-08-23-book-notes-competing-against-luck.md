@@ -23,7 +23,7 @@ Jobs Theory (AKA Jobs To Be Done) helps you understand the _cause and effect_ of
 
 Different circumstances have different evaluation criteria that you may not be expecting. You must evaluate whether your solution is good enough _in the context of the situation_.
 
-You don’t use a bicycle in a motor race, and you drive a sports car up cross country. Something that’s well designed for one situation can be a total failure in others.
+You don’t use a bicycle in a motor race, and you drive a sports car cross country. Something that’s well designed for one situation can be a total failure in others.
 
 It’s difficult for competitors to copy well-integrated _experiences_. If you understand the underlying _causal mechanism_ of the progress a customer is trying to make, you can fully support them in that situation – not just in the use of the product but in all the context around the purchase too.
 
