@@ -123,6 +123,14 @@ I'm not particularly attached to the current chair, so a possibility is to just 
 
 ![New chairs](/images/posts/building-beauty/new-chairs.jpg)
 
+## HOME Competition
+
+Building Beauty Faculty Member [Duo Dickinson](https://www.buildingbeauty.org/faculty-profiles/duo-dickinson) (who gave an amazing [talk on modelling last year](/2020/12/13/building-beauty-week-10/)) runs an annual [HOME competition](https://www.buildingbeauty.org/home-summary) that Building Beauty students can enter. I entered my [House project](/2020/12/22/building-beauty-week-11) and won the “Merit for Methodology” award!
+
+He liked how the Jewels defined the vision of the house and how they directly translated to the final design.
+
+![HOME Competition 2021 entry](/images/posts/building-beauty/gareth-rees-home-competition-2021.jpg)
+
 ## Nature of Order
 
 We’re done!
