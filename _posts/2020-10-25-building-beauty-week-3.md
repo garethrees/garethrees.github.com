@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Building Beauty: Week 3"
+tags: building-beauty
 ---
 
 # {{ page.title }}
