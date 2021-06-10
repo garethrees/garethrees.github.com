@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Book Notes – Nature of Order Book 1: The Phenomenon of Life"
+tags: building-beauty
 ---
 
 # {{ page.title }}
