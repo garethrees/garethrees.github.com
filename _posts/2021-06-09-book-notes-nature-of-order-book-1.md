@@ -14,11 +14,11 @@ Currently only my hand-written notes. One day I'll type these up…
   {% assign padded = i | prepend: '00' | slice: -2, 2 %}
 
   {% if i == 4 or i == 6 or i == 10 %}
-  <p id="{{ i }}" class="minor-note">
+  <p id="card-{{ i }}" class="minor-note">
     Card {{ i }} intentionally left blank
   </p>
   {% else %}
-  <p id="{{ i }}">
+  <p id="card-{{ i }}">
     <img src="/images/posts/building-beauty/book-1-{{ padded }}.jpg" />
   </p>
   {% endif %}
