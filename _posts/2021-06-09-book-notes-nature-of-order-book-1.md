@@ -8,6 +8,8 @@ tags: building-beauty
 
 Currently only my hand-written notes. One day I'll type these up…
 
+[Book 2](/2021/06/15/book-notes-nature-of-order-book-2) – The Process of Creating Life &rarr;
+
 {% for i in (1..26) -%}
   {% assign padded = i | prepend: '00' | slice: -2, 2 %}
 
