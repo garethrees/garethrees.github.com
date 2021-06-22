@@ -10,9 +10,7 @@ Currently only my hand-written notes. One day I'll type these up…
 
 [&larr; Book 1](/2021/06/09/book-notes-nature-of-order-book-1) – The Phenomenon of Life
 
-<!--
-[Book 3](/2021/06/??/book-notes-nature-of-order-book-3) – A Vision of a Living World &rarr;
--->
+[Book 3](/2021/06/22/book-notes-nature-of-order-book-3) – A Vision of a Living World &rarr;
 
 {% for i in (1..26) -%}
   {% assign padded = i | prepend: '00' | slice: -2, 2 %}
