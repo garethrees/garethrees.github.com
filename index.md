@@ -5,7 +5,7 @@ title: Home
 
 I currently work at [mySociety](http://www.mysociety.org) building [Freedom of Information](https://www.mysociety.org/freedom-of-information/) tools installed in over [25 countries](http://alaveteli.org/deployments/).
 
-In 2017 I was a member of the Welsh Assembly's [Digital News and Engagement Taskforce](http://www.assembly.wales/en/abthome/about_us-commission_assembly_administration/Pages/Digital-News-and-Information-Taskforce.aspx). The objective of the Taskforce was to explore and [recommend](http://www.assembly.wales/SiteCollectionDocuments/Taskforce-Report-web-E.pdf) the most effective ways to increase levels of public understanding and engagement with audiences currently disengaged with politics and Welsh affairs.
+In 2017 I was a member of the Welsh Assembly's [Digital News and Engagement Taskforce](https://senedd.wales/senedd-now/news/leighton-andrews-to-head-up-digital-news-and-information-taskforce/). The objective of the Taskforce was to explore and [recommend](https://senedd.wales/senedd-now/news/assembly-encouraged-to-look-beyond-conventional-media-to-reach-people-in-wales-digital-taskforce-launches-creating-a-digital-dialogue-report/) the most effective ways to increase levels of public understanding and engagement with audiences currently disengaged with politics and Welsh affairs.
 
 ## Blog
 
