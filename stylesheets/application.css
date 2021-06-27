@@ -14,6 +14,7 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
+  font-family: system-ui; sans-serif;
   letter-spacing: -1px;
 }
 
@@ -92,6 +93,20 @@ aside,
   .posted-on {
     display: block;
   }
+}
+
+.nav {
+  font-family: system-ui, sans-serif;
+  letter-spacing: -0.5px;
+}
+
+.nav a {
+  text-decoration: none;
+}
+
+.nav a:hover,
+.nav a:active {
+  text-decoration: underline;
 }
 
 #footer {
