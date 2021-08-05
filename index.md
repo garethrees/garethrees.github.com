@@ -3,7 +3,9 @@ layout: default
 title: Home
 ---
 
-I currently work at [mySociety](http://www.mysociety.org) building [Freedom of Information](https://www.mysociety.org/freedom-of-information/) tools installed in over [25 countries](http://alaveteli.org/deployments/).
+I currently work at [mySociety](http://www.mysociety.org) leading our [Transparency programe](https://www.mysociety.org/transparency) focused around building [Freedom of Information tools](https://www.whatdotheyknow.com/) installed in over [25 countries](http://alaveteli.org/deployments/).
+
+<p>In 2020-2021 I participated in the <a href="/building-beauty">Building Beauty Online course</a> and the <a href="/building-beauty">Beautiful Software seminar</a>.</p>
 
 In 2017 I was a member of the Welsh Assembly's [Digital News and Engagement Taskforce](https://senedd.wales/senedd-now/news/leighton-andrews-to-head-up-digital-news-and-information-taskforce/). The objective of the Taskforce was to explore and [recommend](https://senedd.wales/senedd-now/news/assembly-encouraged-to-look-beyond-conventional-media-to-reach-people-in-wales-digital-taskforce-launches-creating-a-digital-dialogue-report/) the most effective ways to increase levels of public understanding and engagement with audiences currently disengaged with politics and Welsh affairs.
 
