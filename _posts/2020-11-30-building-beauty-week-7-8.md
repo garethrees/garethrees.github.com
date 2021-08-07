@@ -8,15 +8,45 @@ tags: building-beauty
 
 Really quick update to try to get back on track…
 
-## Studio
+## Furniture Presentation
 
 “Finished” the lamp project. I didn’t actually finish the lamp, but ended up making a good amount of progress with the shade by using fabric. I presented the full project and got some nice feedback.
 
-Here are some extracts of the slides:
-
-![Furniture presentation slide extracts](/images/posts/building-beauty/furniture-presentation.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-00.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-01.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-02.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-03.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-04.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-05.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-06.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-07.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-08.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-09.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-10.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-11.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-12.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-13.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-14.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-15.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-16.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-17.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-18.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-19.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-20.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-21.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-22.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-23.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-24.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-25.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-26.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-27.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-28.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-29.jpg)
+![Furniture presentation](/images/posts/building-beauty/2020-11-20-furniture-presentation-30.jpg)
 
 One of the main things that I learned was how difficult the light pattern was to get right, so I should have started there. It seems obvious in retrospect, but until I started trying to make it real, I didn’t fully appreciate that the light emitted is _the_ most important thing to get right in a lamp, so you should _start with that_.
+
+## Studio
 
 We’ve now moved on to the third project – a house for yourself – which is another jump in scale.
 
