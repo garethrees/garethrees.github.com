@@ -74,6 +74,50 @@ While easier to make on a practical level compared to the ornament and furniture
 
 It surprises me that this _isn’t_ how architects usually build houses.
 
+## A House for Yourself Presentation
+
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-00.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-01.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-02.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-03.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-04.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-05.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-06.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-07.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-08.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-09.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-10.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-11.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-12.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-13.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-14.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-15.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-16.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-17.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-18.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-19.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-20.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-21.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-22.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-23.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-24.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-25.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-26.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-27.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-28.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-29.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-30.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-31.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-32.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-33.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-34.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-35.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-36.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-37.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-38.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-39.jpg)
+![A house for yourself presentation](/images/posts/building-beauty/2020-12-18-house-presentation-40.jpg)
+
 ## Nature of Order
 
 I didn’t quite manage to reach the end of Book 2, but I’m not too far away.
