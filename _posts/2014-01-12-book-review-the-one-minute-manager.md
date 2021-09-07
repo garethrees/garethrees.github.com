@@ -7,7 +7,7 @@ title: Book Review – The One Minute Manager
 
 > People who feel good about themselves produce good results
 
-![The One Minute Manager Cover Image](http://garethrees.co.uk/images/posts/the-one-minute-manager.jpg)
+![The One Minute Manager Cover Image](/images/posts/the-one-minute-manager.jpg)
 
 [The One Minute Manager](http://www.amazon.co.uk/dp/0007107927) is a _tiny_ (less than 100 pages) little book with just three simple steps to become a great manager. I'm sold.
 
