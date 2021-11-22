@@ -13,9 +13,13 @@ I found some of the book less practical than [256 Bloghacks](/2020/04/05/book-no
 
 Here are the bits that I enjoyed most.
 
-## Create 3 Layers of Information
+## On purpose…
 
-_Most people are too busy most of the time._ Breaking your communication into layers helps people understood _quickly_ and at the right level of detail for their current situation.
+Consider what you’re trying to _communicate_ through each post. The purpose of a post containing some WIP screenshots might be “remind people that we’re actively working on Project X”, or it might be “to temperature-test a new UI direction”. Really understanding the purpose of communication helps fine-tune the three layers.
+
+## On content…
+
+_Most people are too busy most of the time._ Breaking your communication into three layers helps people understood _quickly_ and at the right level of detail for their current situation.
 
 1. **Lure:** The shortest layer designed to pull people in.
 2. **Context:** _Just enough_ information to communicate the main themes of the idea, avoiding complexity and incidental nuances.
@@ -35,11 +39,7 @@ A couple of examples:
 
 TV scientists may have published academic papers, but to reach a wider audience they create simplified versions in the form of TV shows, and lure people with their social media accounts and breakfast show appearances.
 
-## Every post must have a reason for existing
-
-Consider what you’re trying to _communicate_ through each post. The purpose of a post containing some WIP screenshots might be “remind people that we’re actively working on Project X”, or it might be “to temperature-test a new UI direction”. Really understanding the purpose of communication helps fine-tune the three layers.
-
-## Good performance doesn’t necessarily mean page views
+## On performance…
 
 If you’re not driven by advertising revenue, then _who_ you reach is more important than how many you reach.
 
@@ -47,7 +47,7 @@ If you’re not driven by advertising revenue, then _who_ you reach is more impo
 
 At GDS they intentionally made cheaper _looking_ videos to avoid getting hassled for spending public money on slick production.
 
-## Drafts are playgrounds for thinking
+## On drafts…
 
 > I’m writing a first draft and reminding myself that I’m simply shovelling sand into a bucket, so that later I can build sandcastles – Shannon Hale
 
