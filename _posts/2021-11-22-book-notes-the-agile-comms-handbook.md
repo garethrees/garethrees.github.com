@@ -13,6 +13,12 @@ I found some of the book less practical than [256 Bloghacks](/2020/04/05/book-no
 
 Here are the bits that I enjoyed most.
 
+## On strategy…
+
+> Your comms strategy should simply be: communicate.
+
+Don’t start with a “comms strategy”, because most of the time, you probably don’t need one. It’s about telling the story as it happens. Good comms describes how you did what you’ve done. Bad comms just says that you’ve done it.
+
 ## On purpose…
 
 Consider what you’re trying to _communicate_ through each post. The purpose of a post containing some WIP screenshots might be “remind people that we’re actively working on Project X”, or it might be “to temperature-test a new UI direction”. Really understanding the purpose of communication helps fine-tune the three layers.
@@ -39,14 +45,6 @@ A couple of examples:
 
 TV scientists may have published academic papers, but to reach a wider audience they create simplified versions in the form of TV shows, and lure people with their social media accounts and breakfast show appearances.
 
-## On performance…
-
-If you’re not driven by advertising revenue, then _who_ you reach is more important than how many you reach.
-
-## On video production…
-
-At GDS they intentionally made cheaper _looking_ videos to avoid getting hassled for spending public money on slick production.
-
 ## On drafts…
 
 > I’m writing a first draft and reminding myself that I’m simply shovelling sand into a bucket, so that later I can build sandcastles – Shannon Hale
@@ -61,8 +59,10 @@ They also build a catalogue of ideas to pull from. Even if most drafts never go 
 
 Try to keep feedback on drafts at a really high level. “Make the point earlier” or “try arguing your case from the other side”. Drafts will need to be chopped and changed so much that it’s not worth worrying about formatting and grammar changes. These are usually uncontentious and can be picked up at the end.
 
-## On strategy…
+## On video production…
 
-> Your comms strategy should simply be: communicate.
+At GDS they intentionally made cheaper _looking_ videos to avoid getting hassled for spending public money on slick production.
 
-Don’t start with a “comms strategy”, because most of the time, you probably don’t need one. It’s about telling the story as it happens. Good comms describes how you did what you’ve done. Bad comms just says that you’ve done it.
+## On performance…
+
+If you’re not driven by advertising revenue, then _who_ you reach is more important than how many you reach.
