@@ -32,7 +32,7 @@ The most important information is that there are a bunch of groups people can jo
 
 It&rsquo;s looking much better now. The key points are highlighted, and users can scan through the list of associations to see if any are relevant. The explanation text in the right column still looks lost though.
 
-As each chunk is written as a [loose sentence](http://en.wikipedia.org/wiki/Writing_style#The_loose_sentence) the key point falls at the beginning. You can highlight these clauses to bring a bit of attention to the explanations without needing to highlight the whole lot — distracting from the more important parts highlighted earlier.
+As each chunk is written as a [loose sentence](https://en.wikipedia.org/wiki/Loose_sentence) the key point falls at the beginning. You can highlight these clauses to bring a bit of attention to the explanations without needing to highlight the whole lot — distracting from the more important parts highlighted earlier.
 
 <figure>
 	<img src="/images/posts/associations-stage-3.jpg" alt="Screenshot of final version of copy with explanation text given more weight" />
