@@ -88,6 +88,8 @@ puts Html.new(Screenshot.new(SCREENSHOT))
 
 With my proof of concept working well, I just needed to use an [Automator Folder Action](http://www.macosxautomation.com/automator/folder-action/index.html) to run the script for new items added to `~/screenshots`.
 
+![HTML counterpart with extracted text](/images/posts/image-to-html-output.png)
+
 This is where things got difficult. Automator doesn’t use your usual shell environment, so it didn’t have my homebrew-installed Ruby and associated gems in the `PATH`. I played around with this for a while, but in the end it just got so complicated and brittle that I gave up.
 
 ## Enter Crystal
