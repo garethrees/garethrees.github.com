@@ -1,7 +1,10 @@
 2022:
+#- title: The Man in the High Castle
 - title: "Coup d’État: A Practical Handbook"
+#- title: Call for the Dead
 - title: The Plight of Potential
   post: /2022/01/09/book-notes-the-plight-of-potential
+
 2021:
 - title: "Promotion of Access to Information Act: A Practical Guide for Social Justice Activists and Organisations"
 - title: The Agile Comms Handbook
@@ -15,6 +18,7 @@
 - title: "Staying Put: Making a Home in a Restless World"
 - title: "Immediate Action"
   note: re-read
+#- title: Casino Royale
 - title: "The Nature of Order Book 4: The Luminous Ground"
   post: /2021/06/27/book-notes-nature-of-order-book-4
 - title: "The Manual – A Philosopher’s Guide to Life"
@@ -38,6 +42,7 @@
 - title: Leonardo Da Vinci
 - title: 256 Bloghacks
   post: /2020/04/05/book-notes-256-bloghacks
+#- title: Catch 22
 - title: Escape from Freedom
 
 2019:
@@ -67,6 +72,7 @@
 - title: How to Build a Car
 - title: Deep Work
   note: Part 2
+#- title: The Spy Who Came in from the Cold
 - title: "The Battle for the Life and Beauty of the Earth: A Struggle between Two World-Systems"
 
 2018:
@@ -103,6 +109,7 @@
 - title: Blue Ocean Strategy
 - title: The Manager’s Path
   note: Chapters 1-5
+#- title: Brave New World
 - title: Turn the Ship Around!
 
 2017:
@@ -112,6 +119,7 @@
 - title: Fifty cars that changed the world
 - title: Principles
   post: /2017/07/23/book-notes-principles
+#- title: 1984
 - title: Community Building on the Web
   post: /2017/01/10/book-notes-community-building-on-the-web
   note: unfinished
@@ -120,6 +128,7 @@
   - title: Selling the Invisible
     note: re-read
     post: /2017/01/03/book-notes-selling-the-invisible
+  #- title: Animal Farm
   - title: So Good They Can't Ignore You
     post: /2016/08/20/book-notes-so-good-they-cant-ignore-you
   - title: The Lean Startup
@@ -168,3 +177,6 @@ The Past:
   - title: Simple and Usable
   - title: 'Sinatra: Up and Running'
   - title: The Elements of Style
+  #- title: "Warriors – British Fighting Heroes (Tom Clancy)"
+  #- title: "The One Who Got Away (Chris Ryan)"
+  #- title: "Bravo Two Zero (Andy McNab)"
