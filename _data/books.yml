@@ -125,58 +125,58 @@
   note: unfinished
 
 2016:
-  - title: Selling the Invisible
-    note: re-read
-    post: /2017/01/03/book-notes-selling-the-invisible
-  #- title: Animal Farm
-  - title: So Good They Can't Ignore You
-    post: /2016/08/20/book-notes-so-good-they-cant-ignore-you
-  - title: The Lean Startup
-  - title: Maintaining Open Source Projects
+- title: Selling the Invisible
+  note: re-read
+  post: /2017/01/03/book-notes-selling-the-invisible
+#- title: Animal Farm
+- title: So Good They Can't Ignore You
+  post: /2016/08/20/book-notes-so-good-they-cant-ignore-you
+- title: The Lean Startup
+- title: Maintaining Open Source Projects
 
 2015:
-  - title: A Guide to the Good Life
-    post: /2016/02/12/book-notes-a-guide-to-the-good-life
-  - title: Are your lights on
-    post: /2015/09/21/book-notes-are-your-lights-on
-  - title: Mastering Bitcoin
-    note: ~75%. Got bored
-  - title: The 4 hour workweek
-  - title: The Phoenix Project
-  - title: Driving Technical Change
-  - title: The Passionate Programmer
-  - title: The $100 Startup
-  - title: Practical Object-Oriented Design in Ruby
-    note: Chapters 1-6
+- title: A Guide to the Good Life
+  post: /2016/02/12/book-notes-a-guide-to-the-good-life
+- title: Are your lights on
+  post: /2015/09/21/book-notes-are-your-lights-on
+- title: Mastering Bitcoin
+  note: ~75%. Got bored
+- title: The 4 hour workweek
+- title: The Phoenix Project
+- title: Driving Technical Change
+- title: The Passionate Programmer
+- title: The $100 Startup
+- title: Practical Object-Oriented Design in Ruby
+  note: Chapters 1-6
 
 2014:
-  - title: Web Operations
-  - title: The One Minute Manager
-    post: /2014/01/12/book-review-the-one-minute-manager
+- title: Web Operations
+- title: The One Minute Manager
+  post: /2014/01/12/book-review-the-one-minute-manager
 
 2013:
-  - title: Devops for Developers
-    post: /2013/09/17/devops-for-developers
-  - title: The Well-Grounded Rubyist
-    note: 30%
-  - title: User Stories Applied For Agile Software Development
-  - title: Deal With It
-    post: /2013/02/01/book-review-deal-with-it
+- title: Devops for Developers
+  post: /2013/09/17/devops-for-developers
+- title: The Well-Grounded Rubyist
+  note: 30%
+- title: User Stories Applied For Agile Software Development
+- title: Deal With It
+  post: /2013/02/01/book-review-deal-with-it
 
 The Past:
-  - title: A Practical Guide to Information Architecture
-  - title: Agile Web Development with Rails
-  - title: CSS Mastery
-  - title: Defensive Design for the Web
-  - title: Don't Make Me Think
-  - title: Foundation Rails 2
-  - title: Getting Real
-  - title: Getting Things Done
-  - title: Information Architecture
-  - title: ReWork
-  - title: Simple and Usable
-  - title: 'Sinatra: Up and Running'
-  - title: The Elements of Style
-  #- title: "Warriors – British Fighting Heroes (Tom Clancy)"
-  #- title: "The One Who Got Away (Chris Ryan)"
-  #- title: "Bravo Two Zero (Andy McNab)"
+- title: A Practical Guide to Information Architecture
+- title: Agile Web Development with Rails
+- title: CSS Mastery
+- title: Defensive Design for the Web
+- title: Don't Make Me Think
+- title: Foundation Rails 2
+- title: Getting Real
+- title: Getting Things Done
+- title: Information Architecture
+- title: ReWork
+- title: Simple and Usable
+- title: 'Sinatra: Up and Running'
+- title: The Elements of Style
+#- title: "Warriors – British Fighting Heroes (Tom Clancy)"
+#- title: "The One Who Got Away (Chris Ryan)"
+#- title: "Bravo Two Zero (Andy McNab)"
