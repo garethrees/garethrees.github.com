@@ -133,6 +133,8 @@
   post: /2016/08/20/book-notes-so-good-they-cant-ignore-you
 - title: The Lean Startup
 - title: Maintaining Open Source Projects
+- title: Thinking, Fast and Slow
+  note: unfinished
 
 2015:
 - title: A Guide to the Good Life
@@ -151,6 +153,10 @@
 
 2014:
 - title: Web Operations
+- title: Programming Elixir
+  note: unfinished
+  title: RabbitMQ in Action
+  note: unfinished
 - title: The One Minute Manager
   post: /2014/01/12/book-review-the-one-minute-manager
 
