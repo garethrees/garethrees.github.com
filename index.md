@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-I currently work at [mySociety](http://www.mysociety.org) leading our [Transparency programe](https://www.mysociety.org/transparency) focused around building [Freedom of Information tools](https://www.whatdotheyknow.com/) installed in over [25 countries](http://alaveteli.org/deployments/).
+I currently work at [mySociety](http://www.mysociety.org) leading our [Transparency programme](https://www.mysociety.org/transparency) focused around building [Freedom of Information tools](https://www.whatdotheyknow.com/) installed in over [25 countries](http://alaveteli.org/deployments/).
 
 <p>In 2020-2021 I participated in the <a href="/building-beauty">Building Beauty Online course</a> and the <a href="/building-beauty">Beautiful Software seminar</a>.</p>
 
