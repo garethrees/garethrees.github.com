@@ -26,7 +26,7 @@ In 2017 I was a member of the Welsh Assembly's [Digital News and Engagement Task
 
 ## Community
 
-I founded and run [cardiffrb](http://cardiffrb.com), a monthly meet up for Ruby programmers in [Cardiff, UK](http://goo.gl/maps/5VuC8).
+I founded and run [cardiffrb](http://cardiffrb.com), a monthly meet up for Ruby programmers in Cardiff, UK.
 
 I created [Cardiff Collective](http://web.archive.org/web/20140212012139/http://collective.cardiffstart.com/) as a place for entrepreneurs in Cardiff to connect and share knowledge.
 
