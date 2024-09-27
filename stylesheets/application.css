@@ -1,16 +1,32 @@
 body {
-  /* font-size * 1.618 */
+  background-color: lightgrey;
+  border: 6px solid #193EA4;
+  font-family: Georgia, serif;
   font-size: 18px;
-  line-height: 28px;
-  padding: 0 1em;
+  line-height: 1.5;
 }
 
-#main {
-  max-width: 780px;
+.wrap {
+  background-color: white;
+  padding: 1em;
+}
+
+.centred {
+  margin: 0 auto;
+  max-width: 880px;
 }
 
 #print-url {
   display: none;
+}
+
+hr {
+  background-color: lightgrey;
+  border: 0;
+  box-sizing: border-box;
+  display: inline-block;
+  height: 10px;
+  width: 20%;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -95,6 +111,21 @@ aside,
   }
 }
 
+#banner {
+  border-bottom: 1px dotted lightgrey;
+  padding-bottom: 0.5em;
+}
+
+#footer {
+  border-top: 1px dotted lightgrey;
+  padding-top: 0.5em;
+  font-size: small;
+}
+
+#main {
+  margin-bottom: 1em;
+}
+
 .nav {
   font-family: system-ui, sans-serif;
   letter-spacing: -0.5px;
@@ -107,10 +138,6 @@ aside,
 .nav a:hover,
 .nav a:active {
   text-decoration: underline;
-}
-
-#footer {
-  font-size: small;
 }
 
 @media screen and (prefers-color-scheme: dark) {
